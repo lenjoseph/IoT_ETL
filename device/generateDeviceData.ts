@@ -42,7 +42,7 @@ const generateDataPoint = () => {
 };
 
 // generates a new datapoint for each iteration
-export async function* generateData(interval: number, volume: number) {
+export async function* generateData(volume: number, interval: number) {
 	for (let i = 0; i < volume; i++) {
 		await new Promise((r) => setTimeout(r, interval));
 		yield generateDataPoint();
