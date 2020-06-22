@@ -1,6 +1,6 @@
 import { randomBytes } from 'crypto';
-import { transformedThermoDataPoint, thermoDataPoint } from '../types/types';
-import { fahrenheightToCelcius } from './constants';
+import { transformedThermoDataPoint, thermoDataPoint } from '../types';
+import { fahrenheightToCelcius } from './helpers';
 
 export const transformThermoDataPoint: (
 	chunk: thermoDataPoint

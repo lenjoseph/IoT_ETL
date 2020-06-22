@@ -1,5 +1,5 @@
 import { randomBytes } from 'crypto';
-import { transformedAccelDataPoint, accelDataPoint } from '../types/types';
+import { transformedAccelDataPoint, accelDataPoint } from '../types';
 
 const convertToCelcius = (fahrenheit: number) => {
 	return (fahrenheit - 32) / 1.8;

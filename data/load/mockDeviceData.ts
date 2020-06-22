@@ -6,7 +6,7 @@ import {
 	transformedThermoDataPoint,
 	transformedAccelDataPoint,
 	transformedPhotoDataPoint,
-} from '../types/types';
+} from '../types';
 
 // this function performs the data extraction, transformation, and loading into a temp directory
 export async function writeDataToFile(
@@ -70,7 +70,7 @@ export async function writeDataToFile(
 		}
 	});
 
-	console.log(`Converting building json files for device data...`);
+	console.log(`Reading in json files...`);
 
 	return;
 }

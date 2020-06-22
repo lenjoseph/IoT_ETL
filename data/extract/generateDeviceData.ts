@@ -1,6 +1,6 @@
 import { randomBytes } from 'crypto';
 import { origins } from './constants';
-import { dataPoint } from '../types/types';
+import { dataPoint } from '../types';
 
 // creates random alphanumeric string of length from 1 to 10
 const generateDataPoint = () => {
@@ -15,7 +15,7 @@ const generateDataPoint = () => {
 				id: randomBytes(5).toString('hex'),
 				origin: origins[Math.floor(Math.random() * origins.length)],
 				// range is 50 to 90
-				fahrenheit: Math.floor(Math.random() * 40) + 50,
+				fahrenheit: Math.floor(Math.random() * 150) + 1,
 			};
 			break;
 		case 2:
