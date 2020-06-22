@@ -1,9 +1,6 @@
 import { randomBytes } from 'crypto';
+import { hoursToMinutes } from './helpers';
 import { transformedAccelDataPoint, accelDataPoint } from '../types';
-
-const convertToCelcius = (fahrenheit: number) => {
-	return (fahrenheit - 32) / 1.8;
-};
 
 export const transformAccelDataPoint: (
 	chunk: accelDataPoint
@@ -13,6 +10,8 @@ export const transformAccelDataPoint: (
 		device: chunk.device.toUpperCase(),
 		id: chunk.id,
 		origin: chunk.company,
-		degreeArray: [chunk.xDegree, chunk.yDegree, chunk.zDegree],
+		runTimeMinutes: hoursToMinutes(chunk.runTimeHours),
+		walkTimeMinutes: hoursToMinutes(chunk.walkTimeHours),
+		idleTimeMinutes: hoursToMinutes(chunk.idleTimeHours),
 	};
 };

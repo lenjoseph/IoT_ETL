@@ -1,10 +1,6 @@
 import { randomBytes } from 'crypto';
 import { transformedPhotoDataPoint, photoDataPoint } from '../types';
 
-const convertToCelcius = (fahrenheit: number) => {
-	return (fahrenheit - 32) / 1.8;
-};
-
 export const transformPhotoDataPoint: (
 	chunk: photoDataPoint
 ) => transformedPhotoDataPoint = (chunk: photoDataPoint) => {
