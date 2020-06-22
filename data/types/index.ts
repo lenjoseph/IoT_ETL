@@ -10,9 +10,9 @@ export interface thermoDataPoint extends baseDataPoint {
 
 export interface accelDataPoint extends baseDataPoint {
 	company: string;
-	xDegree: number;
-	yDegree: number;
-	zDegree: number;
+	runTimeHours: number;
+	walkTimeHours: number;
+	idleTimeHours: number;
 }
 
 export interface photoDataPoint extends baseDataPoint {
@@ -35,7 +35,9 @@ export type transformedAccelDataPoint = {
 	id: string;
 	origin: string;
 	normalizedID: string;
-	degreeArray: [number, number, number];
+	runTimeMinutes: number;
+	walkTimeMinutes: number;
+	idleTimeMinutes: number;
 };
 
 export type transformedPhotoDataPoint = {

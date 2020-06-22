@@ -1,6 +1,6 @@
 import * as fs from 'fs';
-import { getPhotoOriginMode } from './helpers';
-import { transformedPhotoDataPoint } from '../types';
+import { getPhotoOriginMode, getSensorEnvironmentMapping } from './helpers';
+import { transformedPhotoDataPoint } from '../../types';
 
 export const analyzePhotoData = (photoPath: string) => {
 	// load in data from json file
@@ -20,9 +20,15 @@ export const analyzePhotoData = (photoPath: string) => {
 				photoJSON
 			);
 			const originMode: string = getPhotoOriginMode(photoData.chunks);
-			console.log(`
-                Most frequent photosensor origin: ${originMode}
-            `);
+			const environmentMapping = getSensorEnvironmentMapping(photoData.chunks);
+
+			console.log(
+				`\n --- Photosensor Data Summary --- \n\nMost frequent photosensor origin: ${originMode}\n`
+			);
+			console.log(`Photosensor environment frequencies\n`);
+			for (let [key, value] of Object.entries(environmentMapping)) {
+				console.log(key, `:`, value);
+			}
 		} catch (err) {
 			console.log(err);
 		}
@@ -31,7 +37,7 @@ export const analyzePhotoData = (photoPath: string) => {
 	runAnalysis().then(() => {
 		// clean up temp file holding thermometer data
 		fs.writeFile(photoPath, '', () => {
-			console.log('Photo temp file cleared...');
+			console.log(`\nPhoto temp file cleared...`);
 		});
 	});
 };

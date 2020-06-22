@@ -1,113 +1,3754 @@
 {
     "chunks": [
         {
-            "normalizedID": "606ed8c119b59996",
+            "normalizedID": "cb22d75a3dd53253",
             "device": "ACCELEROMETER",
-            "id": "4237811796eb96",
-            "origin": "Flump",
+            "id": "02a2912a424569",
+            "origin": "Froopyland",
             "degreeArray": [
-                125,
-                322,
-                224
+                165,
+                35,
+                136
             ]
         },
         {
-            "normalizedID": "52c7ed528a226a53",
+            "normalizedID": "6046bf171eeb33df",
             "device": "ACCELEROMETER",
-            "id": "f503409bb1fae1",
-            "origin": "Doopidoo Dimension",
+            "id": "15ccadfa29f107",
+            "origin": "Pluto",
             "degreeArray": [
-                49,
-                136,
-                351
+                107,
+                40,
+                139
             ]
         },
         {
-            "normalizedID": "7839f1bb30c7ffde",
+            "normalizedID": "5005e2ff4fa023f6",
             "device": "ACCELEROMETER",
-            "id": "def93fc15efbef",
-            "origin": "Lil' Bits",
+            "id": "5609b1fada3610",
+            "origin": "Corn Universe",
             "degreeArray": [
-                45,
-                6,
+                115,
+                66,
                 293
             ]
         },
         {
-            "normalizedID": "5044fc655cc89035",
+            "normalizedID": "85fd4006716c7a44",
             "device": "ACCELEROMETER",
-            "id": "86053629b839b5",
-            "origin": "Comulon Dimension",
-            "degreeArray": [
-                247,
-                26,
-                19
-            ]
-        },
-        {
-            "normalizedID": "5401d60d7cd877d4",
-            "device": "ACCELEROMETER",
-            "id": "6fa958cb2cf6fd",
-            "origin": "Nuptia 4",
-            "degreeArray": [
-                42,
-                180,
-                228
-            ]
-        },
-        {
-            "normalizedID": "9f0021de35dc9ed5",
-            "device": "ACCELEROMETER",
-            "id": "5cf9ac7f6ce6a7",
+            "id": "ad60767abc1ea7",
             "origin": "Cogspot",
             "degreeArray": [
-                178,
-                354,
-                37
+                117,
+                193,
+                297
             ]
         },
         {
-            "normalizedID": "d64e7c24e9f51eab",
+            "normalizedID": "3e08b1780c9e4dfa",
             "device": "ACCELEROMETER",
-            "id": "0edb95cbe8e43f",
+            "id": "0f3d647e34c56e",
+            "origin": "Miniverse",
+            "degreeArray": [
+                248,
+                41,
+                327
+            ]
+        },
+        {
+            "normalizedID": "37d586d22ccfa8d8",
+            "device": "ACCELEROMETER",
+            "id": "d331a511b25e35",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                224,
+                15,
+                307
+            ]
+        },
+        {
+            "normalizedID": "57767174bf0afb46",
+            "device": "ACCELEROMETER",
+            "id": "27133a9f9d4e33",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                274,
+                279,
+                221
+            ]
+        },
+        {
+            "normalizedID": "5412086ea9f2ceb6",
+            "device": "ACCELEROMETER",
+            "id": "23b706a7097181",
+            "origin": "Froopyland",
+            "degreeArray": [
+                161,
+                85,
+                300
+            ]
+        },
+        {
+            "normalizedID": "d5d538052da079d6",
+            "device": "ACCELEROMETER",
+            "id": "fefa0799b332f5",
+            "origin": "Mortytown",
+            "degreeArray": [
+                220,
+                68,
+                249
+            ]
+        },
+        {
+            "normalizedID": "224b7c2e30a70319",
+            "device": "ACCELEROMETER",
+            "id": "782791802235b4",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                291,
+                315,
+                297
+            ]
+        },
+        {
+            "normalizedID": "1b1024b1fb9c207f",
+            "device": "ACCELEROMETER",
+            "id": "cae6eb744703ea",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                92,
+                356,
+                161
+            ]
+        },
+        {
+            "normalizedID": "7c4b3cc8344d64ae",
+            "device": "ACCELEROMETER",
+            "id": "b92c28fe60abe7",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                43,
+                212,
+                58
+            ]
+        },
+        {
+            "normalizedID": "2d665ba1ff78af7c",
+            "device": "ACCELEROMETER",
+            "id": "f8599be91b2b69",
+            "origin": "Mortytown",
+            "degreeArray": [
+                95,
+                357,
+                245
+            ]
+        },
+        {
+            "normalizedID": "896d6e3522b80e9b",
+            "device": "ACCELEROMETER",
+            "id": "c9eda09eb33b07",
+            "origin": "Miniverse",
+            "degreeArray": [
+                244,
+                302,
+                29
+            ]
+        },
+        {
+            "normalizedID": "41e39eed69e84c3e",
+            "device": "ACCELEROMETER",
+            "id": "db4d8516805059",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                252,
+                335,
+                112
+            ]
+        },
+        {
+            "normalizedID": "848313fd632a5496",
+            "device": "ACCELEROMETER",
+            "id": "ad3746d7254b1d",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                216,
+                26,
+                321
+            ]
+        },
+        {
+            "normalizedID": "81820d5ca7c092da",
+            "device": "ACCELEROMETER",
+            "id": "f2cbcc9c2392c4",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                267,
+                93,
+                89
+            ]
+        },
+        {
+            "normalizedID": "d44382dd5485d96a",
+            "device": "ACCELEROMETER",
+            "id": "da554329e91923",
+            "origin": "Flump",
+            "degreeArray": [
+                153,
+                169,
+                210
+            ]
+        },
+        {
+            "normalizedID": "9504698212ae5b81",
+            "device": "ACCELEROMETER",
+            "id": "d0c2f0d2a27dda",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                123,
+                12,
+                164
+            ]
+        },
+        {
+            "normalizedID": "910edd66d69f8c4e",
+            "device": "ACCELEROMETER",
+            "id": "0dbac50630d8c6",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                145,
+                252,
+                55
+            ]
+        },
+        {
+            "normalizedID": "d831c5eae422155e",
+            "device": "ACCELEROMETER",
+            "id": "5b53e7ff3f3490",
+            "origin": "Krumpf",
+            "degreeArray": [
+                22,
+                192,
+                184
+            ]
+        },
+        {
+            "normalizedID": "62dc78200d786d9f",
+            "device": "ACCELEROMETER",
+            "id": "2eae939841ce55",
+            "origin": "Corn Universe",
+            "degreeArray": [
+                98,
+                104,
+                139
+            ]
+        },
+        {
+            "normalizedID": "5a2749130fa734f1",
+            "device": "ACCELEROMETER",
+            "id": "9476ad810c6336",
+            "origin": "Lil' Bits",
+            "degreeArray": [
+                67,
+                156,
+                29
+            ]
+        },
+        {
+            "normalizedID": "7a00275ba9135a8d",
+            "device": "ACCELEROMETER",
+            "id": "dc7fd9dbb4d6a3",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                327,
+                153,
+                28
+            ]
+        },
+        {
+            "normalizedID": "4140f41146ad67f2",
+            "device": "ACCELEROMETER",
+            "id": "446071729369db",
+            "origin": "Froopyland",
+            "degreeArray": [
+                70,
+                146,
+                247
+            ]
+        },
+        {
+            "normalizedID": "bb90f1ac9f7f5e18",
+            "device": "ACCELEROMETER",
+            "id": "8a68799cee6384",
+            "origin": "Miniverse",
+            "degreeArray": [
+                95,
+                249,
+                72
+            ]
+        },
+        {
+            "normalizedID": "fad349e871dad9d2",
+            "device": "ACCELEROMETER",
+            "id": "b33d911743d87a",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                260,
+                280,
+                135
+            ]
+        },
+        {
+            "normalizedID": "536faae12b96e28e",
+            "device": "ACCELEROMETER",
+            "id": "1f9c2c2e557064",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                356,
+                339,
+                179
+            ]
+        },
+        {
+            "normalizedID": "c65a04e94e212702",
+            "device": "ACCELEROMETER",
+            "id": "545d9f92f64d59",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                293,
+                82,
+                346
+            ]
+        },
+        {
+            "normalizedID": "c04f0a4f955c4fad",
+            "device": "ACCELEROMETER",
+            "id": "e3ca791debc97a",
+            "origin": "Big Pluto",
+            "degreeArray": [
+                263,
+                38,
+                224
+            ]
+        },
+        {
+            "normalizedID": "ae9d31d3aae3f9e8",
+            "device": "ACCELEROMETER",
+            "id": "bd7b1e173a3b59",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                324,
+                273,
+                74
+            ]
+        },
+        {
+            "normalizedID": "47c7db1ec75364b9",
+            "device": "ACCELEROMETER",
+            "id": "e56ca200c6bbbe",
+            "origin": "Froopyland",
+            "degreeArray": [
+                13,
+                316,
+                16
+            ]
+        },
+        {
+            "normalizedID": "a42060d4376bf22c",
+            "device": "ACCELEROMETER",
+            "id": "f6630f72079c14",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                95,
+                303,
+                160
+            ]
+        },
+        {
+            "normalizedID": "dd6a02054cfc8b6b",
+            "device": "ACCELEROMETER",
+            "id": "140f633e20472e",
+            "origin": "Cogspot",
+            "degreeArray": [
+                70,
+                313,
+                208
+            ]
+        },
+        {
+            "normalizedID": "72c73efeaae3ae9c",
+            "device": "ACCELEROMETER",
+            "id": "4730a932650821",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                52,
+                246,
+                296
+            ]
+        },
+        {
+            "normalizedID": "b9cf371e6404ff0b",
+            "device": "ACCELEROMETER",
+            "id": "6e9e40f57fc575",
+            "origin": "Blumbus Dimension",
+            "degreeArray": [
+                289,
+                22,
+                190
+            ]
+        },
+        {
+            "normalizedID": "dbed2676d4484e62",
+            "device": "ACCELEROMETER",
+            "id": "de4654fc4e92ee",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                178,
+                68,
+                144
+            ]
+        },
+        {
+            "normalizedID": "ff04381031fad84f",
+            "device": "ACCELEROMETER",
+            "id": "e4aaf343ce3fe0",
+            "origin": "Merged Universe",
+            "degreeArray": [
+                172,
+                153,
+                131
+            ]
+        },
+        {
+            "normalizedID": "32e22bd347220c0d",
+            "device": "ACCELEROMETER",
+            "id": "8e44cdd7b46a06",
+            "origin": "Froopyland",
+            "degreeArray": [
+                172,
+                349,
+                168
+            ]
+        },
+        {
+            "normalizedID": "8449300757052604",
+            "device": "ACCELEROMETER",
+            "id": "59667b4d07725d",
+            "origin": "Corn Universe",
+            "degreeArray": [
+                260,
+                224,
+                241
+            ]
+        },
+        {
+            "normalizedID": "c5fd8fab099d2892",
+            "device": "ACCELEROMETER",
+            "id": "7f8f05e2ab7688",
+            "origin": "Cogspot",
+            "degreeArray": [
+                61,
+                201,
+                231
+            ]
+        },
+        {
+            "normalizedID": "493192b8ba6ee531",
+            "device": "ACCELEROMETER",
+            "id": "9441578cc183a0",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                190,
+                265,
+                329
+            ]
+        },
+        {
+            "normalizedID": "531eb4fb62675a58",
+            "device": "ACCELEROMETER",
+            "id": "e69b2956bab395",
+            "origin": "Froopyland",
+            "degreeArray": [
+                23,
+                124,
+                83
+            ]
+        },
+        {
+            "normalizedID": "eb3960b4a6cd3324",
+            "device": "ACCELEROMETER",
+            "id": "6000fa506d58db",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                204,
+                171,
+                57
+            ]
+        },
+        {
+            "normalizedID": "ea1f3bc323de5256",
+            "device": "ACCELEROMETER",
+            "id": "d94f985bdc2436",
+            "origin": "Miniverse",
+            "degreeArray": [
+                243,
+                267,
+                265
+            ]
+        },
+        {
+            "normalizedID": "c3e40048aa179522",
+            "device": "ACCELEROMETER",
+            "id": "76afa5760985c3",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                282,
+                215,
+                260
+            ]
+        },
+        {
+            "normalizedID": "7159a4f7ad5c3515",
+            "device": "ACCELEROMETER",
+            "id": "c2a7037f594d03",
+            "origin": "Flump",
+            "degreeArray": [
+                145,
+                139,
+                166
+            ]
+        },
+        {
+            "normalizedID": "07b16b574d5a252a",
+            "device": "ACCELEROMETER",
+            "id": "9d36981ccfa29d",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                310,
+                126,
+                239
+            ]
+        },
+        {
+            "normalizedID": "c91975d960a1daaf",
+            "device": "ACCELEROMETER",
+            "id": "824132b93789c7",
             "origin": "Nuptia 4",
             "degreeArray": [
-                5,
-                275,
+                282,
+                242,
+                129
+            ]
+        },
+        {
+            "normalizedID": "35e3bc6c7b51cefe",
+            "device": "ACCELEROMETER",
+            "id": "9ef171867ef1e1",
+            "origin": "Flump",
+            "degreeArray": [
+                277,
+                198,
+                17
+            ]
+        },
+        {
+            "normalizedID": "5b2bcb75b65f7e2e",
+            "device": "ACCELEROMETER",
+            "id": "ea93a5fd2dadd5",
+            "origin": "Miniverse",
+            "degreeArray": [
+                332,
+                19,
+                90
+            ]
+        },
+        {
+            "normalizedID": "e46a69f8505a6cf8",
+            "device": "ACCELEROMETER",
+            "id": "03755e26bf398c",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                121,
+                292,
+                260
+            ]
+        },
+        {
+            "normalizedID": "8693d7867ac4cee5",
+            "device": "ACCELEROMETER",
+            "id": "2c0827e7720119",
+            "origin": "Big Pluto",
+            "degreeArray": [
+                77,
+                199,
+                285
+            ]
+        },
+        {
+            "normalizedID": "d0aaf5a96aa6390b",
+            "device": "ACCELEROMETER",
+            "id": "424746437bb806",
+            "origin": "Zorpantheon 9",
+            "degreeArray": [
+                249,
+                285,
+                134
+            ]
+        },
+        {
+            "normalizedID": "e5e839e37a89ef6e",
+            "device": "ACCELEROMETER",
+            "id": "8c6bcef8d87ccb",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                104,
+                125,
+                347
+            ]
+        },
+        {
+            "normalizedID": "c0e4a61d299802a4",
+            "device": "ACCELEROMETER",
+            "id": "c63999af97d537",
+            "origin": "Krumpf",
+            "degreeArray": [
+                359,
+                268,
+                27
+            ]
+        },
+        {
+            "normalizedID": "5b783dcbfab00f5e",
+            "device": "ACCELEROMETER",
+            "id": "f169d9cf6d573a",
+            "origin": "Lil' Bits",
+            "degreeArray": [
+                136,
+                308,
+                149
+            ]
+        },
+        {
+            "normalizedID": "e16f512dd117d46f",
+            "device": "ACCELEROMETER",
+            "id": "49d5483df753b8",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                147,
+                337,
+                35
+            ]
+        },
+        {
+            "normalizedID": "f8ee785492c4b81c",
+            "device": "ACCELEROMETER",
+            "id": "50111c5aa81603",
+            "origin": "Miniverse",
+            "degreeArray": [
+                57,
+                53,
+                45
+            ]
+        },
+        {
+            "normalizedID": "2dee5e6b8c8306ee",
+            "device": "ACCELEROMETER",
+            "id": "dad00839ae5091",
+            "origin": "Miniverse",
+            "degreeArray": [
+                210,
+                130,
+                335
+            ]
+        },
+        {
+            "normalizedID": "05a32794d8e55f68",
+            "device": "ACCELEROMETER",
+            "id": "4af4665d73d0e4",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                23,
+                267,
+                336
+            ]
+        },
+        {
+            "normalizedID": "ead734b841598c6e",
+            "device": "ACCELEROMETER",
+            "id": "e068d39ae1edbf",
+            "origin": "Lil' Bits",
+            "degreeArray": [
+                111,
+                68,
+                286
+            ]
+        },
+        {
+            "normalizedID": "40bab540b218d9be",
+            "device": "ACCELEROMETER",
+            "id": "95cfbc24324347",
+            "origin": "Cogspot",
+            "degreeArray": [
+                73,
+                52,
+                322
+            ]
+        },
+        {
+            "normalizedID": "8d5cef5f3591412c",
+            "device": "ACCELEROMETER",
+            "id": "fe07c376e47560",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                352,
+                173,
+                326
+            ]
+        },
+        {
+            "normalizedID": "eb82e53fc52055ec",
+            "device": "ACCELEROMETER",
+            "id": "73103b51903783",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                339,
+                124,
+                20
+            ]
+        },
+        {
+            "normalizedID": "8e13d2c4b2819137",
+            "device": "ACCELEROMETER",
+            "id": "7634f9acf4272d",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                70,
+                61,
+                116
+            ]
+        },
+        {
+            "normalizedID": "632d9faeb7e5172f",
+            "device": "ACCELEROMETER",
+            "id": "1ccb80cfd38c68",
+            "origin": "Nuptia 4",
+            "degreeArray": [
+                178,
+                98,
+                316
+            ]
+        },
+        {
+            "normalizedID": "c23727ece5d96dca",
+            "device": "ACCELEROMETER",
+            "id": "1f168e6d07cdab",
+            "origin": "Nuptia 4",
+            "degreeArray": [
+                153,
+                173,
+                195
+            ]
+        },
+        {
+            "normalizedID": "6e09049016ef3c2d",
+            "device": "ACCELEROMETER",
+            "id": "9dbf7d2976f362",
+            "origin": "Corn Universe",
+            "degreeArray": [
+                266,
+                11,
+                125
+            ]
+        },
+        {
+            "normalizedID": "2c2b501daaeff705",
+            "device": "ACCELEROMETER",
+            "id": "c0277447a86fa5",
+            "origin": "Froopyland",
+            "degreeArray": [
+                188,
+                328,
+                38
+            ]
+        },
+        {
+            "normalizedID": "f82b59ae40353e8c",
+            "device": "ACCELEROMETER",
+            "id": "56992fe9a98e3b",
+            "origin": "Midland Quasar",
+            "degreeArray": [
+                195,
+                7,
+                292
+            ]
+        },
+        {
+            "normalizedID": "d5fdb9ef7322cfed",
+            "device": "ACCELEROMETER",
+            "id": "40834a78bd078d",
+            "origin": "Pluto",
+            "degreeArray": [
+                204,
+                18,
+                120
+            ]
+        },
+        {
+            "normalizedID": "a5082eb6bae53d4d",
+            "device": "ACCELEROMETER",
+            "id": "d537202ec4fd10",
+            "origin": "Lil' Bits",
+            "degreeArray": [
+                350,
+                193,
+                104
+            ]
+        },
+        {
+            "normalizedID": "0f8a5cd93bfdf311",
+            "device": "ACCELEROMETER",
+            "id": "372f45a218047a",
+            "origin": "Pluto",
+            "degreeArray": [
+                37,
+                81,
+                147
+            ]
+        },
+        {
+            "normalizedID": "0ed92bbed48aa3ff",
+            "device": "ACCELEROMETER",
+            "id": "482be502c07c95",
+            "origin": "Zorpantheon 9",
+            "degreeArray": [
+                156,
+                6,
+                109
+            ]
+        },
+        {
+            "normalizedID": "6d2bc0484209ae00",
+            "device": "ACCELEROMETER",
+            "id": "b0d1407b3a2369",
+            "origin": "Big Pluto",
+            "degreeArray": [
+                206,
+                177,
+                356
+            ]
+        },
+        {
+            "normalizedID": "2f2a86bdadd23a2c",
+            "device": "ACCELEROMETER",
+            "id": "8c12ed5311ae02",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                93,
+                150,
+                157
+            ]
+        },
+        {
+            "normalizedID": "b84c061ff6d3feb0",
+            "device": "ACCELEROMETER",
+            "id": "c42259f6ca569d",
+            "origin": "Merged Universe",
+            "degreeArray": [
+                74,
+                144,
+                7
+            ]
+        },
+        {
+            "normalizedID": "f154d615819be611",
+            "device": "ACCELEROMETER",
+            "id": "ff7f66049217d8",
+            "origin": "Pluto",
+            "degreeArray": [
+                292,
+                303,
+                74
+            ]
+        },
+        {
+            "normalizedID": "e00444edd69cc9b2",
+            "device": "ACCELEROMETER",
+            "id": "7e62404bca3076",
+            "origin": "Krumpf",
+            "degreeArray": [
+                185,
+                333,
+                343
+            ]
+        },
+        {
+            "normalizedID": "e4157551ea3e7332",
+            "device": "ACCELEROMETER",
+            "id": "9130e5e1f7767e",
+            "origin": "Froopyland",
+            "degreeArray": [
+                120,
+                300,
+                59
+            ]
+        },
+        {
+            "normalizedID": "bc39005a3ee5cf91",
+            "device": "ACCELEROMETER",
+            "id": "b40971c3e326e7",
+            "origin": "Cogspot",
+            "degreeArray": [
+                241,
+                142,
+                342
+            ]
+        },
+        {
+            "normalizedID": "bb502a29f8c5a521",
+            "device": "ACCELEROMETER",
+            "id": "c3766c4ec81b46",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                164,
+                204,
+                52
+            ]
+        },
+        {
+            "normalizedID": "98c1ce8c023a16a8",
+            "device": "ACCELEROMETER",
+            "id": "a22bcce47014de",
+            "origin": "Nuptia 4",
+            "degreeArray": [
+                63,
+                138,
+                65
+            ]
+        },
+        {
+            "normalizedID": "c24a98b6aea89f7b",
+            "device": "ACCELEROMETER",
+            "id": "fce8be1947ddae",
+            "origin": "Midland Quasar",
+            "degreeArray": [
+                342,
+                175,
+                77
+            ]
+        },
+        {
+            "normalizedID": "c8ac75b75786b659",
+            "device": "ACCELEROMETER",
+            "id": "c690cec1d72b74",
+            "origin": "Zorpantheon 9",
+            "degreeArray": [
+                4,
+                126,
+                151
+            ]
+        },
+        {
+            "normalizedID": "20254c0cbce899c1",
+            "device": "ACCELEROMETER",
+            "id": "4e3feab3fa4ff4",
+            "origin": "Merged Universe",
+            "degreeArray": [
+                328,
+                97,
                 280
             ]
         },
         {
-            "normalizedID": "f916b379e7e48aa7",
+            "normalizedID": "25b674614b8bdaae",
             "device": "ACCELEROMETER",
-            "id": "67df40f108da06",
-            "origin": "Lil' Bits",
+            "id": "86d27a03cdade7",
+            "origin": "Nuptia 4",
             "degreeArray": [
-                212,
-                98,
-                314
+                235,
+                323,
+                328
             ]
         },
         {
-            "normalizedID": "0fcd3c068aa5d4c9",
+            "normalizedID": "3bd0874e3ec15372",
             "device": "ACCELEROMETER",
-            "id": "0c47c465a73194",
-            "origin": "Krumpf",
+            "id": "5ba5188b8e787d",
+            "origin": "Comulon Dimension",
             "degreeArray": [
-                9,
-                125,
+                180,
+                181,
+                264
+            ]
+        },
+        {
+            "normalizedID": "01f368e741aa65a7",
+            "device": "ACCELEROMETER",
+            "id": "a128e81e1d2239",
+            "origin": "Corn Universe",
+            "degreeArray": [
+                107,
+                99,
                 270
             ]
         },
         {
-            "normalizedID": "7718821e1000bce3",
+            "normalizedID": "ef42a9bb96131b4d",
             "device": "ACCELEROMETER",
-            "id": "76a0ee63a518a4",
+            "id": "1475c26233472d",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                32,
+                43,
+                101
+            ]
+        },
+        {
+            "normalizedID": "342cd5e47c329cf6",
+            "device": "ACCELEROMETER",
+            "id": "9a023c436ec606",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                193,
+                285,
+                95
+            ]
+        },
+        {
+            "normalizedID": "f80de38b20b05897",
+            "device": "ACCELEROMETER",
+            "id": "62e99fcfcd2da3",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                196,
+                313,
+                84
+            ]
+        },
+        {
+            "normalizedID": "f1053a0d156eaadd",
+            "device": "ACCELEROMETER",
+            "id": "c255dd1b034517",
+            "origin": "Blumbus Dimension",
+            "degreeArray": [
+                321,
+                85,
+                330
+            ]
+        },
+        {
+            "normalizedID": "be7d188b84f2d6ce",
+            "device": "ACCELEROMETER",
+            "id": "182e9cbdb77004",
+            "origin": "Corn Universe",
+            "degreeArray": [
+                76,
+                61,
+                153
+            ]
+        },
+        {
+            "normalizedID": "13dc6d0c73339601",
+            "device": "ACCELEROMETER",
+            "id": "05123774a53df4",
             "origin": "Mortytown",
             "degreeArray": [
-                269,
+                188,
+                237,
+                282
+            ]
+        },
+        {
+            "normalizedID": "6a2f75c3c8863f2d",
+            "device": "ACCELEROMETER",
+            "id": "889d85842db524",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                85,
+                251,
+                303
+            ]
+        },
+        {
+            "normalizedID": "53386abba7980684",
+            "device": "ACCELEROMETER",
+            "id": "f14595897331fb",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                150,
+                204,
+                23
+            ]
+        },
+        {
+            "normalizedID": "8dc951ba98be8275",
+            "device": "ACCELEROMETER",
+            "id": "ab12729cbff218",
+            "origin": "Big Pluto",
+            "degreeArray": [
+                2,
+                165,
+                177
+            ]
+        },
+        {
+            "normalizedID": "03dc85a48505089c",
+            "device": "ACCELEROMETER",
+            "id": "2bd7600b1b8894",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                135,
+                205,
+                347
+            ]
+        },
+        {
+            "normalizedID": "3d471c017cca7f53",
+            "device": "ACCELEROMETER",
+            "id": "36019b0aa05d5f",
+            "origin": "Mortytown",
+            "degreeArray": [
+                1,
+                186,
+                177
+            ]
+        },
+        {
+            "normalizedID": "c2810838aeadbcfb",
+            "device": "ACCELEROMETER",
+            "id": "09dadc3e379a07",
+            "origin": "Blumbus Dimension",
+            "degreeArray": [
+                51,
+                353,
+                74
+            ]
+        },
+        {
+            "normalizedID": "896d57e727296d46",
+            "device": "ACCELEROMETER",
+            "id": "a7f44c56cbc04d",
+            "origin": "Merged Universe",
+            "degreeArray": [
+                293,
+                227,
+                140
+            ]
+        },
+        {
+            "normalizedID": "eb35252aa1cb34f0",
+            "device": "ACCELEROMETER",
+            "id": "cbb58216d7a5ab",
+            "origin": "Nuptia 4",
+            "degreeArray": [
+                183,
+                314,
+                13
+            ]
+        },
+        {
+            "normalizedID": "ae413dd34c3019c1",
+            "device": "ACCELEROMETER",
+            "id": "508f8894c52498",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                117,
+                52,
+                215
+            ]
+        },
+        {
+            "normalizedID": "ecf9758a814fd4a6",
+            "device": "ACCELEROMETER",
+            "id": "50c9c7f203b815",
+            "origin": "Merged Universe",
+            "degreeArray": [
+                313,
+                246,
+                92
+            ]
+        },
+        {
+            "normalizedID": "4b3b0abd3b2cb4e0",
+            "device": "ACCELEROMETER",
+            "id": "294fe4b2b0e651",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                309,
+                161,
+                223
+            ]
+        },
+        {
+            "normalizedID": "2f48adace8ff4d02",
+            "device": "ACCELEROMETER",
+            "id": "ebfb8320bb6784",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                70,
+                268,
+                210
+            ]
+        },
+        {
+            "normalizedID": "0d470ad219516e1b",
+            "device": "ACCELEROMETER",
+            "id": "6ec09feef50db1",
+            "origin": "Midland Quasar",
+            "degreeArray": [
+                352,
+                281,
+                191
+            ]
+        },
+        {
+            "normalizedID": "54e61d42f706ec11",
+            "device": "ACCELEROMETER",
+            "id": "9caa9c27e56be1",
+            "origin": "Nuptia 4",
+            "degreeArray": [
+                46,
+                321,
+                258
+            ]
+        },
+        {
+            "normalizedID": "3076396c88217cf6",
+            "device": "ACCELEROMETER",
+            "id": "ef7482302f758e",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                87,
+                334,
+                338
+            ]
+        },
+        {
+            "normalizedID": "3847135ebfe7ee8a",
+            "device": "ACCELEROMETER",
+            "id": "e374c760fd0184",
+            "origin": "Corn Universe",
+            "degreeArray": [
+                273,
+                122,
+                208
+            ]
+        },
+        {
+            "normalizedID": "ade95738e096fa8d",
+            "device": "ACCELEROMETER",
+            "id": "dce2220ad1b9ea",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                106,
+                239,
+                170
+            ]
+        },
+        {
+            "normalizedID": "2fac380053d24aff",
+            "device": "ACCELEROMETER",
+            "id": "1d51897be5d6c6",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                117,
+                29,
+                301
+            ]
+        },
+        {
+            "normalizedID": "02c0a7cd8525c246",
+            "device": "ACCELEROMETER",
+            "id": "4c269d62e560c5",
+            "origin": "Miniverse",
+            "degreeArray": [
+                90,
+                242,
+                268
+            ]
+        },
+        {
+            "normalizedID": "82110c1794f6b8c2",
+            "device": "ACCELEROMETER",
+            "id": "adb4ddd735db3f",
+            "origin": "Krumpf",
+            "degreeArray": [
+                204,
+                218,
+                27
+            ]
+        },
+        {
+            "normalizedID": "a5d02bf3fb043f98",
+            "device": "ACCELEROMETER",
+            "id": "47b43ac008bcdc",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                153,
+                129,
+                152
+            ]
+        },
+        {
+            "normalizedID": "17f7d86455825ff6",
+            "device": "ACCELEROMETER",
+            "id": "04db161f89d94f",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                217,
+                57,
+                329
+            ]
+        },
+        {
+            "normalizedID": "bfea76b0de880084",
+            "device": "ACCELEROMETER",
+            "id": "b5e80cfa0cf785",
+            "origin": "Miniverse",
+            "degreeArray": [
+                58,
+                80,
+                209
+            ]
+        },
+        {
+            "normalizedID": "75aaccb2d7492e41",
+            "device": "ACCELEROMETER",
+            "id": "404d2ef360c50d",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                165,
+                18,
+                176
+            ]
+        },
+        {
+            "normalizedID": "743fb3f73d6cf9e7",
+            "device": "ACCELEROMETER",
+            "id": "f87ef0d92cbe69",
+            "origin": "Zorpantheon 9",
+            "degreeArray": [
+                186,
+                145,
+                306
+            ]
+        },
+        {
+            "normalizedID": "a9ae2db25e87e9a1",
+            "device": "ACCELEROMETER",
+            "id": "9782f8e3cacc39",
+            "origin": "Cogspot",
+            "degreeArray": [
+                335,
+                318,
+                322
+            ]
+        },
+        {
+            "normalizedID": "b9d24950102040c8",
+            "device": "ACCELEROMETER",
+            "id": "6ec043ab3c6cbe",
+            "origin": "Blumbus Dimension",
+            "degreeArray": [
+                85,
+                260,
+                6
+            ]
+        },
+        {
+            "normalizedID": "a83710f4e8b25114",
+            "device": "ACCELEROMETER",
+            "id": "cef5604210b78f",
+            "origin": "Big Pluto",
+            "degreeArray": [
+                340,
+                336,
+                195
+            ]
+        },
+        {
+            "normalizedID": "54747da29f011c98",
+            "device": "ACCELEROMETER",
+            "id": "5c9fb1876f2625",
+            "origin": "Krumpf",
+            "degreeArray": [
+                204,
+                276,
+                58
+            ]
+        },
+        {
+            "normalizedID": "0425c5c50cbdc65a",
+            "device": "ACCELEROMETER",
+            "id": "484addec9258cc",
+            "origin": "Corn Universe",
+            "degreeArray": [
+                306,
+                330,
+                336
+            ]
+        },
+        {
+            "normalizedID": "d3d9f3eb4dc2fbef",
+            "device": "ACCELEROMETER",
+            "id": "2ae3e1688bfa71",
+            "origin": "Big Pluto",
+            "degreeArray": [
+                188,
+                129,
+                84
+            ]
+        },
+        {
+            "normalizedID": "d5254fd1f590dc95",
+            "device": "ACCELEROMETER",
+            "id": "543bcd8234d70c",
+            "origin": "Blumbus Dimension",
+            "degreeArray": [
+                171,
+                176,
+                358
+            ]
+        },
+        {
+            "normalizedID": "220340bf5f6c911f",
+            "device": "ACCELEROMETER",
+            "id": "f206c95dbea34e",
+            "origin": "Lil' Bits",
+            "degreeArray": [
+                359,
+                349,
+                201
+            ]
+        },
+        {
+            "normalizedID": "ad6e831ce0bc8784",
+            "device": "ACCELEROMETER",
+            "id": "1e80c0807787c3",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                279,
+                317,
+                109
+            ]
+        },
+        {
+            "normalizedID": "f6489d7e56783741",
+            "device": "ACCELEROMETER",
+            "id": "5df94997725240",
+            "origin": "Miniverse",
+            "degreeArray": [
+                248,
+                192,
+                17
+            ]
+        },
+        {
+            "normalizedID": "dc93367948ad9106",
+            "device": "ACCELEROMETER",
+            "id": "e4920e3bc2b8c0",
+            "origin": "Lil' Bits",
+            "degreeArray": [
+                324,
+                232,
+                28
+            ]
+        },
+        {
+            "normalizedID": "784eb00e1545ccad",
+            "device": "ACCELEROMETER",
+            "id": "f254695c67b325",
+            "origin": "Froopyland",
+            "degreeArray": [
+                6,
+                201,
+                84
+            ]
+        },
+        {
+            "normalizedID": "7f287bcf8ff2decc",
+            "device": "ACCELEROMETER",
+            "id": "bf515006957b37",
+            "origin": "Merged Universe",
+            "degreeArray": [
+                80,
+                14,
+                266
+            ]
+        },
+        {
+            "normalizedID": "dcf7744e3060c097",
+            "device": "ACCELEROMETER",
+            "id": "8520050345a31a",
+            "origin": "Pluto",
+            "degreeArray": [
+                94,
+                11,
+                262
+            ]
+        },
+        {
+            "normalizedID": "02e856ff91b9319c",
+            "device": "ACCELEROMETER",
+            "id": "92c28f8741dea8",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                55,
+                187,
+                265
+            ]
+        },
+        {
+            "normalizedID": "04d55bb39c24e180",
+            "device": "ACCELEROMETER",
+            "id": "f0f3df2efe0bbc",
+            "origin": "Midland Quasar",
+            "degreeArray": [
+                187,
+                334,
+                319
+            ]
+        },
+        {
+            "normalizedID": "eb41709e08c6eb60",
+            "device": "ACCELEROMETER",
+            "id": "ab6d9eb3857a6e",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                235,
+                50,
+                264
+            ]
+        },
+        {
+            "normalizedID": "8e4cf6829d663ac2",
+            "device": "ACCELEROMETER",
+            "id": "a78940c482b715",
+            "origin": "Krumpf",
+            "degreeArray": [
+                338,
+                286,
+                230
+            ]
+        },
+        {
+            "normalizedID": "c04e9db8e05c15dc",
+            "device": "ACCELEROMETER",
+            "id": "59314ed0e4944c",
+            "origin": "Zorpantheon 9",
+            "degreeArray": [
+                165,
+                190,
+                326
+            ]
+        },
+        {
+            "normalizedID": "eca42cf7209cb503",
+            "device": "ACCELEROMETER",
+            "id": "9a50b55bc92b1c",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                286,
+                282,
+                208
+            ]
+        },
+        {
+            "normalizedID": "84941e362e2a69a7",
+            "device": "ACCELEROMETER",
+            "id": "9eb019906a50b7",
+            "origin": "Cogspot",
+            "degreeArray": [
+                313,
+                110,
+                74
+            ]
+        },
+        {
+            "normalizedID": "3f10ea482e270e1e",
+            "device": "ACCELEROMETER",
+            "id": "0be692ab979cd8",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                220,
+                163,
+                288
+            ]
+        },
+        {
+            "normalizedID": "374d6aea4839e705",
+            "device": "ACCELEROMETER",
+            "id": "910c3da78de575",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                230,
+                123,
+                2
+            ]
+        },
+        {
+            "normalizedID": "51592f98efad1c0f",
+            "device": "ACCELEROMETER",
+            "id": "b949b3447c6f38",
+            "origin": "Cogspot",
+            "degreeArray": [
+                339,
+                33,
+                43
+            ]
+        },
+        {
+            "normalizedID": "319b84403b897759",
+            "device": "ACCELEROMETER",
+            "id": "90e980208fc80f",
+            "origin": "Corn Universe",
+            "degreeArray": [
+                302,
+                180,
+                260
+            ]
+        },
+        {
+            "normalizedID": "4c05d0ae542802e4",
+            "device": "ACCELEROMETER",
+            "id": "6a94c45ef2de17",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                112,
+                225,
+                253
+            ]
+        },
+        {
+            "normalizedID": "2501a6281c3fb36d",
+            "device": "ACCELEROMETER",
+            "id": "fd3b6cd34bd85f",
+            "origin": "Big Pluto",
+            "degreeArray": [
+                146,
+                220,
+                355
+            ]
+        },
+        {
+            "normalizedID": "007455a99d5c5c4f",
+            "device": "ACCELEROMETER",
+            "id": "65384fd2a61a4e",
+            "origin": "Zorpantheon 9",
+            "degreeArray": [
+                13,
+                68,
+                81
+            ]
+        },
+        {
+            "normalizedID": "575f87af7720a507",
+            "device": "ACCELEROMETER",
+            "id": "8a07d85108b295",
+            "origin": "Pluto",
+            "degreeArray": [
+                309,
+                292,
+                357
+            ]
+        },
+        {
+            "normalizedID": "41d3aade3abee2d7",
+            "device": "ACCELEROMETER",
+            "id": "a3e82a42be9c79",
+            "origin": "Lil' Bits",
+            "degreeArray": [
+                172,
+                213,
+                163
+            ]
+        },
+        {
+            "normalizedID": "f30eb317dae8b1ba",
+            "device": "ACCELEROMETER",
+            "id": "642ea74fd073c7",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                59,
+                79,
+                107
+            ]
+        },
+        {
+            "normalizedID": "7287051dc45dfb3d",
+            "device": "ACCELEROMETER",
+            "id": "46e1eddf01df75",
+            "origin": "Krumpf",
+            "degreeArray": [
+                282,
+                218,
+                140
+            ]
+        },
+        {
+            "normalizedID": "5c4e6c3a5e639bd4",
+            "device": "ACCELEROMETER",
+            "id": "5e8112b4501b9d",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                170,
+                112,
+                321
+            ]
+        },
+        {
+            "normalizedID": "0b7ca8d5a4ac55f3",
+            "device": "ACCELEROMETER",
+            "id": "494c3d7c2a80dc",
+            "origin": "Corn Universe",
+            "degreeArray": [
+                163,
+                147,
+                293
+            ]
+        },
+        {
+            "normalizedID": "4febc116e3e30a22",
+            "device": "ACCELEROMETER",
+            "id": "2a697ee43d0b52",
+            "origin": "Corn Universe",
+            "degreeArray": [
+                125,
+                57,
+                4
+            ]
+        },
+        {
+            "normalizedID": "e55d8cafdd9fa31f",
+            "device": "ACCELEROMETER",
+            "id": "ba31057fff691d",
+            "origin": "Mortytown",
+            "degreeArray": [
+                217,
+                155,
+                201
+            ]
+        },
+        {
+            "normalizedID": "703f404293b4767b",
+            "device": "ACCELEROMETER",
+            "id": "0f39223a0c34ad",
+            "origin": "Krumpf",
+            "degreeArray": [
+                289,
+                167,
+                53
+            ]
+        },
+        {
+            "normalizedID": "e3b98d17c63a8ecb",
+            "device": "ACCELEROMETER",
+            "id": "3abdc1c39cbd6c",
+            "origin": "Nuptia 4",
+            "degreeArray": [
+                240,
+                359,
+                106
+            ]
+        },
+        {
+            "normalizedID": "c686df0f3fac8ffd",
+            "device": "ACCELEROMETER",
+            "id": "31d8af71a4c534",
+            "origin": "Big Pluto",
+            "degreeArray": [
+                235,
+                245,
+                333
+            ]
+        },
+        {
+            "normalizedID": "c6124efb27681b87",
+            "device": "ACCELEROMETER",
+            "id": "b29598d6d6b467",
+            "origin": "Pluto",
+            "degreeArray": [
+                86,
+                177,
+                169
+            ]
+        },
+        {
+            "normalizedID": "fab2537bf47cab47",
+            "device": "ACCELEROMETER",
+            "id": "ca31af30cc9392",
+            "origin": "Merged Universe",
+            "degreeArray": [
+                160,
+                19,
+                74
+            ]
+        },
+        {
+            "normalizedID": "60a681a1f41d4175",
+            "device": "ACCELEROMETER",
+            "id": "94eb95f48fd52e",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                235,
+                123,
+                105
+            ]
+        },
+        {
+            "normalizedID": "80d83bec6311d020",
+            "device": "ACCELEROMETER",
+            "id": "d45227bb33b423",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                124,
+                287,
+                41
+            ]
+        },
+        {
+            "normalizedID": "d3372c506d6361f5",
+            "device": "ACCELEROMETER",
+            "id": "067994922b663e",
+            "origin": "Merged Universe",
+            "degreeArray": [
+                73,
+                299,
+                287
+            ]
+        },
+        {
+            "normalizedID": "c8b3139296cf26f8",
+            "device": "ACCELEROMETER",
+            "id": "c00570c3fb10f3",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                142,
+                280,
+                0
+            ]
+        },
+        {
+            "normalizedID": "b63b5e607a983805",
+            "device": "ACCELEROMETER",
+            "id": "e39274573ee740",
+            "origin": "Miniverse",
+            "degreeArray": [
+                340,
+                310,
+                248
+            ]
+        },
+        {
+            "normalizedID": "d8c9c7ae2f277f6f",
+            "device": "ACCELEROMETER",
+            "id": "d6f8b70be6fc74",
+            "origin": "Miniverse",
+            "degreeArray": [
+                80,
+                218,
+                90
+            ]
+        },
+        {
+            "normalizedID": "c173b4d3d92d1557",
+            "device": "ACCELEROMETER",
+            "id": "aa789f10eb3f4e",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                204,
+                320,
+                348
+            ]
+        },
+        {
+            "normalizedID": "01c220a39f599e98",
+            "device": "ACCELEROMETER",
+            "id": "d677e6f741996c",
+            "origin": "Pluto",
+            "degreeArray": [
+                225,
+                20,
+                97
+            ]
+        },
+        {
+            "normalizedID": "a3e3e4f66104808a",
+            "device": "ACCELEROMETER",
+            "id": "9147f8dc8d4bea",
+            "origin": "Miniverse",
+            "degreeArray": [
+                148,
+                276,
+                17
+            ]
+        },
+        {
+            "normalizedID": "08f4349f844df23a",
+            "device": "ACCELEROMETER",
+            "id": "f66ae2924f6249",
+            "origin": "Froopyland",
+            "degreeArray": [
+                298,
+                41,
+                210
+            ]
+        },
+        {
+            "normalizedID": "cb7e5de2e3e74e3c",
+            "device": "ACCELEROMETER",
+            "id": "c8a1f3ecc69350",
+            "origin": "Midland Quasar",
+            "degreeArray": [
+                34,
+                81,
+                340
+            ]
+        },
+        {
+            "normalizedID": "7f8056e83d26d76c",
+            "device": "ACCELEROMETER",
+            "id": "245e8163c4aae7",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                285,
+                25,
+                212
+            ]
+        },
+        {
+            "normalizedID": "f3a626180eb61d2b",
+            "device": "ACCELEROMETER",
+            "id": "06221b60e1c0d6",
+            "origin": "Miniverse",
+            "degreeArray": [
+                129,
+                68,
+                351
+            ]
+        },
+        {
+            "normalizedID": "bd7a80fac2ecf20c",
+            "device": "ACCELEROMETER",
+            "id": "bb2231a8368d1e",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                331,
+                51,
+                283
+            ]
+        },
+        {
+            "normalizedID": "d1ebf250a67aed6a",
+            "device": "ACCELEROMETER",
+            "id": "45e89191571a15",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                19,
+                80,
+                126
+            ]
+        },
+        {
+            "normalizedID": "933242922951988e",
+            "device": "ACCELEROMETER",
+            "id": "7e3cef053e5c78",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                70,
+                120,
+                65
+            ]
+        },
+        {
+            "normalizedID": "294544a255b3de34",
+            "device": "ACCELEROMETER",
+            "id": "aab1f9e6e5e966",
+            "origin": "Corn Universe",
+            "degreeArray": [
+                241,
+                90,
+                148
+            ]
+        },
+        {
+            "normalizedID": "469b0a09a6bd175c",
+            "device": "ACCELEROMETER",
+            "id": "e26612d6495cb0",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                299,
+                346,
+                67
+            ]
+        },
+        {
+            "normalizedID": "74a7d3a5b3c17d52",
+            "device": "ACCELEROMETER",
+            "id": "ef6976c9f3c837",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                37,
+                239,
+                342
+            ]
+        },
+        {
+            "normalizedID": "81c7d2f2ba0f1fda",
+            "device": "ACCELEROMETER",
+            "id": "323a9b309f5dc3",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                3,
+                265,
+                105
+            ]
+        },
+        {
+            "normalizedID": "0a34c5112c3ad10c",
+            "device": "ACCELEROMETER",
+            "id": "80a7b828b5dd5e",
+            "origin": "Mortytown",
+            "degreeArray": [
+                335,
+                39,
+                77
+            ]
+        },
+        {
+            "normalizedID": "0705b4895a291856",
+            "device": "ACCELEROMETER",
+            "id": "ea9a79d1f37ef1",
+            "origin": "Lil' Bits",
+            "degreeArray": [
+                3,
+                264,
+                108
+            ]
+        },
+        {
+            "normalizedID": "8e65499daca410f5",
+            "device": "ACCELEROMETER",
+            "id": "8bfb0016b9eedf",
+            "origin": "Nuptia 4",
+            "degreeArray": [
+                137,
+                231,
+                57
+            ]
+        },
+        {
+            "normalizedID": "9776dbaaaa5e8b63",
+            "device": "ACCELEROMETER",
+            "id": "807831585dec79",
+            "origin": "Midland Quasar",
+            "degreeArray": [
+                41,
+                5,
+                350
+            ]
+        },
+        {
+            "normalizedID": "a49eb943b10a0980",
+            "device": "ACCELEROMETER",
+            "id": "da2be8566470ed",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                312,
+                280,
+                267
+            ]
+        },
+        {
+            "normalizedID": "39c219a7da8a9117",
+            "device": "ACCELEROMETER",
+            "id": "3c187c46d31321",
+            "origin": "Big Pluto",
+            "degreeArray": [
+                113,
+                33,
+                89
+            ]
+        },
+        {
+            "normalizedID": "623cdb89f6ff2818",
+            "device": "ACCELEROMETER",
+            "id": "fb53a8dd22bc33",
+            "origin": "Pluto",
+            "degreeArray": [
+                170,
+                127,
+                275
+            ]
+        },
+        {
+            "normalizedID": "68e560d0b700f881",
+            "device": "ACCELEROMETER",
+            "id": "87f62f7b1acca3",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                243,
+                237,
+                341
+            ]
+        },
+        {
+            "normalizedID": "8d1800b9f4d779bb",
+            "device": "ACCELEROMETER",
+            "id": "2482fa13152983",
+            "origin": "Zorpantheon 9",
+            "degreeArray": [
+                84,
+                212,
+                125
+            ]
+        },
+        {
+            "normalizedID": "9022cdc2177219bb",
+            "device": "ACCELEROMETER",
+            "id": "076650e4b7361e",
+            "origin": "Corn Universe",
+            "degreeArray": [
+                11,
+                228,
+                224
+            ]
+        },
+        {
+            "normalizedID": "7e64da31338eb2c3",
+            "device": "ACCELEROMETER",
+            "id": "0924b68e99f5e4",
+            "origin": "Lil' Bits",
+            "degreeArray": [
+                250,
+                99,
+                264
+            ]
+        },
+        {
+            "normalizedID": "49dbd9274be8a53c",
+            "device": "ACCELEROMETER",
+            "id": "567534d9b8c5d8",
+            "origin": "Pluto",
+            "degreeArray": [
+                35,
+                64,
+                9
+            ]
+        },
+        {
+            "normalizedID": "c36058871181013f",
+            "device": "ACCELEROMETER",
+            "id": "2492ea53f7ca03",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                49,
+                205,
+                123
+            ]
+        },
+        {
+            "normalizedID": "9af3c3e2744384a6",
+            "device": "ACCELEROMETER",
+            "id": "c95b073a8a2719",
+            "origin": "Corn Universe",
+            "degreeArray": [
+                146,
+                147,
+                97
+            ]
+        },
+        {
+            "normalizedID": "d5e5f28ed17e4e4b",
+            "device": "ACCELEROMETER",
+            "id": "0691fd75e9984d",
+            "origin": "Flump",
+            "degreeArray": [
+                232,
+                183,
+                292
+            ]
+        },
+        {
+            "normalizedID": "4cbd7aaa9ff0369e",
+            "device": "ACCELEROMETER",
+            "id": "d2780d2ce52e18",
+            "origin": "Froopyland",
+            "degreeArray": [
+                57,
+                177,
+                152
+            ]
+        },
+        {
+            "normalizedID": "98e6eed5a1b4dd0a",
+            "device": "ACCELEROMETER",
+            "id": "25e66ee53ab6ba",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                293,
+                122,
+                61
+            ]
+        },
+        {
+            "normalizedID": "56a5528d2548c69d",
+            "device": "ACCELEROMETER",
+            "id": "5a9932f0ed5aad",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                26,
+                280,
+                327
+            ]
+        },
+        {
+            "normalizedID": "1424681ecd79a24e",
+            "device": "ACCELEROMETER",
+            "id": "0ec22fc3ea60f0",
+            "origin": "Midland Quasar",
+            "degreeArray": [
+                156,
+                346,
+                8
+            ]
+        },
+        {
+            "normalizedID": "dd78c35ea9a4b9c1",
+            "device": "ACCELEROMETER",
+            "id": "8806e84e9b410e",
+            "origin": "Merged Universe",
+            "degreeArray": [
                 266,
-                173
+                287,
+                341
+            ]
+        },
+        {
+            "normalizedID": "19763db8ba0ecd8e",
+            "device": "ACCELEROMETER",
+            "id": "de21322f25e995",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                50,
+                31,
+                43
+            ]
+        },
+        {
+            "normalizedID": "b0da350ef8db6009",
+            "device": "ACCELEROMETER",
+            "id": "4ef078954f8b04",
+            "origin": "Zorpantheon 9",
+            "degreeArray": [
+                175,
+                258,
+                70
+            ]
+        },
+        {
+            "normalizedID": "e7497b1878fd8463",
+            "device": "ACCELEROMETER",
+            "id": "8c497ebd780c0c",
+            "origin": "Zorpantheon 9",
+            "degreeArray": [
+                328,
+                194,
+                359
+            ]
+        },
+        {
+            "normalizedID": "55bf82c4951d9e29",
+            "device": "ACCELEROMETER",
+            "id": "0068c1ec34f64a",
+            "origin": "Corn Universe",
+            "degreeArray": [
+                144,
+                144,
+                109
+            ]
+        },
+        {
+            "normalizedID": "ce8771e0b14f5576",
+            "device": "ACCELEROMETER",
+            "id": "0ed354f8722602",
+            "origin": "Flump",
+            "degreeArray": [
+                162,
+                323,
+                292
+            ]
+        },
+        {
+            "normalizedID": "56832b9992639cce",
+            "device": "ACCELEROMETER",
+            "id": "3028d00e411b2c",
+            "origin": "Corn Universe",
+            "degreeArray": [
+                285,
+                255,
+                309
+            ]
+        },
+        {
+            "normalizedID": "5a761ed7600f24cd",
+            "device": "ACCELEROMETER",
+            "id": "bcca5cc606b12d",
+            "origin": "Midland Quasar",
+            "degreeArray": [
+                86,
+                148,
+                68
+            ]
+        },
+        {
+            "normalizedID": "591a5e3e4b50f25a",
+            "device": "ACCELEROMETER",
+            "id": "ee50653927a6f4",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                346,
+                46,
+                0
+            ]
+        },
+        {
+            "normalizedID": "e5218e05b9755d7a",
+            "device": "ACCELEROMETER",
+            "id": "47306c9b6cfd1d",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                27,
+                89,
+                324
+            ]
+        },
+        {
+            "normalizedID": "af72a3c96115b660",
+            "device": "ACCELEROMETER",
+            "id": "6980d62163fa55",
+            "origin": "Mortytown",
+            "degreeArray": [
+                22,
+                342,
+                242
+            ]
+        },
+        {
+            "normalizedID": "5563613aa576e652",
+            "device": "ACCELEROMETER",
+            "id": "500393b3b9684c",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                306,
+                206,
+                239
+            ]
+        },
+        {
+            "normalizedID": "343fc0c3822203b7",
+            "device": "ACCELEROMETER",
+            "id": "d8676cf2ebe528",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                123,
+                150,
+                208
+            ]
+        },
+        {
+            "normalizedID": "20ed6d263fd2632c",
+            "device": "ACCELEROMETER",
+            "id": "cda8afb8e897f2",
+            "origin": "Nuptia 4",
+            "degreeArray": [
+                269,
+                74,
+                36
+            ]
+        },
+        {
+            "normalizedID": "c69e4e9a792ab267",
+            "device": "ACCELEROMETER",
+            "id": "98f9a180d9578c",
+            "origin": "Midland Quasar",
+            "degreeArray": [
+                217,
+                135,
+                190
+            ]
+        },
+        {
+            "normalizedID": "3be52ac891db605c",
+            "device": "ACCELEROMETER",
+            "id": "6bcf9879bb81ff",
+            "origin": "Cogspot",
+            "degreeArray": [
+                344,
+                130,
+                79
+            ]
+        },
+        {
+            "normalizedID": "9101a899e113d326",
+            "device": "ACCELEROMETER",
+            "id": "6adb9ed5679777",
+            "origin": "Big Pluto",
+            "degreeArray": [
+                334,
+                200,
+                121
+            ]
+        },
+        {
+            "normalizedID": "83963c4e6b339087",
+            "device": "ACCELEROMETER",
+            "id": "e5991d0b55ca57",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                83,
+                357,
+                243
+            ]
+        },
+        {
+            "normalizedID": "2482ce584a66957f",
+            "device": "ACCELEROMETER",
+            "id": "fe4a15105f71ea",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                340,
+                175,
+                145
+            ]
+        },
+        {
+            "normalizedID": "9e05cbafb72b9b98",
+            "device": "ACCELEROMETER",
+            "id": "7cb7a75b62bf3a",
+            "origin": "Miniverse",
+            "degreeArray": [
+                335,
+                147,
+                181
+            ]
+        },
+        {
+            "normalizedID": "59fbd931be31fef4",
+            "device": "ACCELEROMETER",
+            "id": "1acb69135f418a",
+            "origin": "Miniverse",
+            "degreeArray": [
+                178,
+                20,
+                176
+            ]
+        },
+        {
+            "normalizedID": "b38a2a6a9ea9ed21",
+            "device": "ACCELEROMETER",
+            "id": "9f34c34cb6b713",
+            "origin": "Midland Quasar",
+            "degreeArray": [
+                226,
+                87,
+                235
+            ]
+        },
+        {
+            "normalizedID": "93e9e600c5e138cf",
+            "device": "ACCELEROMETER",
+            "id": "403e135ef9bfa1",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                25,
+                329,
+                351
+            ]
+        },
+        {
+            "normalizedID": "2499f3fc75d82f7b",
+            "device": "ACCELEROMETER",
+            "id": "cf9e4a7600cb1a",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                289,
+                98,
+                352
+            ]
+        },
+        {
+            "normalizedID": "d8f397cc2e772442",
+            "device": "ACCELEROMETER",
+            "id": "088088f74dd47c",
+            "origin": "Flump",
+            "degreeArray": [
+                341,
+                8,
+                149
+            ]
+        },
+        {
+            "normalizedID": "2046e1c250b11b2f",
+            "device": "ACCELEROMETER",
+            "id": "b6be1278500b10",
+            "origin": "Mortytown",
+            "degreeArray": [
+                153,
+                133,
+                285
+            ]
+        },
+        {
+            "normalizedID": "8bb706d4e98bdd42",
+            "device": "ACCELEROMETER",
+            "id": "3f20929734166c",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                42,
+                113,
+                314
+            ]
+        },
+        {
+            "normalizedID": "811df894625c8c86",
+            "device": "ACCELEROMETER",
+            "id": "64c6f40d76c912",
+            "origin": "Cogspot",
+            "degreeArray": [
+                238,
+                246,
+                121
+            ]
+        },
+        {
+            "normalizedID": "fa740447f3b80e7f",
+            "device": "ACCELEROMETER",
+            "id": "fd0d54f3620cb5",
+            "origin": "Pluto",
+            "degreeArray": [
+                56,
+                210,
+                207
+            ]
+        },
+        {
+            "normalizedID": "aee5364e502eb438",
+            "device": "ACCELEROMETER",
+            "id": "dbe245893153e9",
+            "origin": "Froopyland",
+            "degreeArray": [
+                5,
+                296,
+                94
+            ]
+        },
+        {
+            "normalizedID": "f2b34e8218f61c8c",
+            "device": "ACCELEROMETER",
+            "id": "cf9ff36a590bd1",
+            "origin": "Flump",
+            "degreeArray": [
+                318,
+                90,
+                63
+            ]
+        },
+        {
+            "normalizedID": "546af3fc48de0a6e",
+            "device": "ACCELEROMETER",
+            "id": "993b5f15ff61d2",
+            "origin": "Corn Universe",
+            "degreeArray": [
+                244,
+                216,
+                59
+            ]
+        },
+        {
+            "normalizedID": "1c32d80475aa6a1c",
+            "device": "ACCELEROMETER",
+            "id": "acd1ebf09a6fed",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                188,
+                283,
+                163
+            ]
+        },
+        {
+            "normalizedID": "903cb6c99555013f",
+            "device": "ACCELEROMETER",
+            "id": "484d4c4d5c6db4",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                146,
+                283,
+                287
+            ]
+        },
+        {
+            "normalizedID": "4b3c6a0be0c59308",
+            "device": "ACCELEROMETER",
+            "id": "ed3e88e6c9c02b",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                185,
+                262,
+                14
+            ]
+        },
+        {
+            "normalizedID": "13a87caefcda1acc",
+            "device": "ACCELEROMETER",
+            "id": "66ff5c7fe47068",
+            "origin": "Lil' Bits",
+            "degreeArray": [
+                249,
+                161,
+                284
+            ]
+        },
+        {
+            "normalizedID": "230df23dc3f3fa8d",
+            "device": "ACCELEROMETER",
+            "id": "c53adc99075d5a",
+            "origin": "Mortytown",
+            "degreeArray": [
+                339,
+                328,
+                87
+            ]
+        },
+        {
+            "normalizedID": "e50f33f1d5da0210",
+            "device": "ACCELEROMETER",
+            "id": "9f6374a8d5947f",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                278,
+                52,
+                43
+            ]
+        },
+        {
+            "normalizedID": "bf09ad41c083e677",
+            "device": "ACCELEROMETER",
+            "id": "a6fcffe2f5b0ca",
+            "origin": "Pluto",
+            "degreeArray": [
+                181,
+                153,
+                12
+            ]
+        },
+        {
+            "normalizedID": "7e7d4018fa639328",
+            "device": "ACCELEROMETER",
+            "id": "ac2980812b0e22",
+            "origin": "Zorpantheon 9",
+            "degreeArray": [
+                183,
+                313,
+                41
+            ]
+        },
+        {
+            "normalizedID": "dfad3febf3eed93f",
+            "device": "ACCELEROMETER",
+            "id": "5f9c66136e80dc",
+            "origin": "Pluto",
+            "degreeArray": [
+                62,
+                115,
+                226
+            ]
+        },
+        {
+            "normalizedID": "faeec10395fc6040",
+            "device": "ACCELEROMETER",
+            "id": "4a3738eb612fdc",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                107,
+                83,
+                355
+            ]
+        },
+        {
+            "normalizedID": "143bf5ac69e52e03",
+            "device": "ACCELEROMETER",
+            "id": "ca12d681389c4a",
+            "origin": "Nuptia 4",
+            "degreeArray": [
+                77,
+                99,
+                286
+            ]
+        },
+        {
+            "normalizedID": "c958030dab7201d2",
+            "device": "ACCELEROMETER",
+            "id": "04276832b531dc",
+            "origin": "Nuptia 4",
+            "degreeArray": [
+                260,
+                180,
+                134
+            ]
+        },
+        {
+            "normalizedID": "1c66f61c5c2abd27",
+            "device": "ACCELEROMETER",
+            "id": "84056af92a4ebc",
+            "origin": "Big Pluto",
+            "degreeArray": [
+                218,
+                68,
+                270
+            ]
+        },
+        {
+            "normalizedID": "b3a58f60eafd5e1d",
+            "device": "ACCELEROMETER",
+            "id": "03b553f51744b5",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                183,
+                333,
+                132
+            ]
+        },
+        {
+            "normalizedID": "374ec23d687e64c6",
+            "device": "ACCELEROMETER",
+            "id": "a9646a106131c3",
+            "origin": "Krumpf",
+            "degreeArray": [
+                76,
+                169,
+                286
+            ]
+        },
+        {
+            "normalizedID": "c310f7376c5d9021",
+            "device": "ACCELEROMETER",
+            "id": "ec59de67129ccb",
+            "origin": "Midland Quasar",
+            "degreeArray": [
+                55,
+                285,
+                338
+            ]
+        },
+        {
+            "normalizedID": "1f98dfb9c5a40fe6",
+            "device": "ACCELEROMETER",
+            "id": "223586762b943d",
+            "origin": "Cogspot",
+            "degreeArray": [
+                281,
+                99,
+                69
+            ]
+        },
+        {
+            "normalizedID": "b9ce6bf99860ea9b",
+            "device": "ACCELEROMETER",
+            "id": "b0322e6fe9cf95",
+            "origin": "Mortytown",
+            "degreeArray": [
+                319,
+                131,
+                162
+            ]
+        },
+        {
+            "normalizedID": "77468f78ae19eeb8",
+            "device": "ACCELEROMETER",
+            "id": "379d0f60fccc71",
+            "origin": "Cogspot",
+            "degreeArray": [
+                253,
+                341,
+                276
+            ]
+        },
+        {
+            "normalizedID": "168c7059991d89a9",
+            "device": "ACCELEROMETER",
+            "id": "16b87ba3321711",
+            "origin": "Merged Universe",
+            "degreeArray": [
+                326,
+                60,
+                345
+            ]
+        },
+        {
+            "normalizedID": "67236d2d5221018d",
+            "device": "ACCELEROMETER",
+            "id": "8ca30d92c87294",
+            "origin": "Merged Universe",
+            "degreeArray": [
+                38,
+                350,
+                235
+            ]
+        },
+        {
+            "normalizedID": "7c40bdda37e12f0d",
+            "device": "ACCELEROMETER",
+            "id": "0204abc97dc78b",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                301,
+                245,
+                37
+            ]
+        },
+        {
+            "normalizedID": "dbc7e4fc8e7ae60d",
+            "device": "ACCELEROMETER",
+            "id": "73079529411bce",
+            "origin": "Miniverse",
+            "degreeArray": [
+                294,
+                208,
+                52
+            ]
+        },
+        {
+            "normalizedID": "6b7f3895706e04f9",
+            "device": "ACCELEROMETER",
+            "id": "d41b379426de05",
+            "origin": "Mortytown",
+            "degreeArray": [
+                231,
+                215,
+                106
+            ]
+        },
+        {
+            "normalizedID": "ee9c9d1243745dfc",
+            "device": "ACCELEROMETER",
+            "id": "3d919ad1ca80f9",
+            "origin": "Cogspot",
+            "degreeArray": [
+                303,
+                188,
+                184
+            ]
+        },
+        {
+            "normalizedID": "f398f13f183ed6b3",
+            "device": "ACCELEROMETER",
+            "id": "47d84d2165aac5",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                254,
+                273,
+                268
+            ]
+        },
+        {
+            "normalizedID": "b5ce582a373b7878",
+            "device": "ACCELEROMETER",
+            "id": "c791ce23e673e5",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                286,
+                159,
+                36
+            ]
+        },
+        {
+            "normalizedID": "4890e879eb586e42",
+            "device": "ACCELEROMETER",
+            "id": "831829f598f406",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                292,
+                223,
+                182
+            ]
+        },
+        {
+            "normalizedID": "cd5de762f63d1bf2",
+            "device": "ACCELEROMETER",
+            "id": "81625989afcad7",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                291,
+                19,
+                134
+            ]
+        },
+        {
+            "normalizedID": "d853c54dd2ae3f17",
+            "device": "ACCELEROMETER",
+            "id": "fa91e11970015b",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                99,
+                355,
+                283
+            ]
+        },
+        {
+            "normalizedID": "41673580b51f0714",
+            "device": "ACCELEROMETER",
+            "id": "dc83cd083ce0b0",
+            "origin": "Nuptia 4",
+            "degreeArray": [
+                289,
+                219,
+                244
+            ]
+        },
+        {
+            "normalizedID": "912ec86355795647",
+            "device": "ACCELEROMETER",
+            "id": "04611e58ceba9c",
+            "origin": "Zorpantheon 9",
+            "degreeArray": [
+                246,
+                38,
+                231
+            ]
+        },
+        {
+            "normalizedID": "42dec16880954e79",
+            "device": "ACCELEROMETER",
+            "id": "ed54094ed30a54",
+            "origin": "Merged Universe",
+            "degreeArray": [
+                274,
+                239,
+                62
+            ]
+        },
+        {
+            "normalizedID": "37b2d338632751f3",
+            "device": "ACCELEROMETER",
+            "id": "a33cd401817137",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                116,
+                278,
+                312
+            ]
+        },
+        {
+            "normalizedID": "b55dd67f5219ac81",
+            "device": "ACCELEROMETER",
+            "id": "dafe7fd6c90089",
+            "origin": "Blumbus Dimension",
+            "degreeArray": [
+                113,
+                216,
+                107
+            ]
+        },
+        {
+            "normalizedID": "d217d0727c7e490d",
+            "device": "ACCELEROMETER",
+            "id": "984485ed049fc2",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                185,
+                34,
+                104
+            ]
+        },
+        {
+            "normalizedID": "9313cf5b7e955400",
+            "device": "ACCELEROMETER",
+            "id": "3eb4020165220d",
+            "origin": "Flump",
+            "degreeArray": [
+                45,
+                90,
+                75
+            ]
+        },
+        {
+            "normalizedID": "7ce713f400ed5fcc",
+            "device": "ACCELEROMETER",
+            "id": "de38a23f7dd081",
+            "origin": "Mortytown",
+            "degreeArray": [
+                239,
+                261,
+                329
+            ]
+        },
+        {
+            "normalizedID": "bc879d2446bd4ae6",
+            "device": "ACCELEROMETER",
+            "id": "f853de828b5289",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                109,
+                30,
+                236
+            ]
+        },
+        {
+            "normalizedID": "39b490f47d39afde",
+            "device": "ACCELEROMETER",
+            "id": "e8818ef658fde0",
+            "origin": "Midland Quasar",
+            "degreeArray": [
+                93,
+                305,
+                7
+            ]
+        },
+        {
+            "normalizedID": "1dafd7c78d94f933",
+            "device": "ACCELEROMETER",
+            "id": "a6b9eabd561c15",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                322,
+                169,
+                290
+            ]
+        },
+        {
+            "normalizedID": "bdd8baaa7c88fa2b",
+            "device": "ACCELEROMETER",
+            "id": "fdae655a4f52e9",
+            "origin": "Zorpantheon 9",
+            "degreeArray": [
+                90,
+                351,
+                215
+            ]
+        },
+        {
+            "normalizedID": "213ff3dfbadf02a9",
+            "device": "ACCELEROMETER",
+            "id": "552bd1969c1c65",
+            "origin": "Krumpf",
+            "degreeArray": [
+                306,
+                54,
+                253
+            ]
+        },
+        {
+            "normalizedID": "854cdba35f60272c",
+            "device": "ACCELEROMETER",
+            "id": "c3525df2a0ad20",
+            "origin": "Flump",
+            "degreeArray": [
+                7,
+                234,
+                153
+            ]
+        },
+        {
+            "normalizedID": "ae9ad396158b8dcb",
+            "device": "ACCELEROMETER",
+            "id": "044266897e5a88",
+            "origin": "Cogspot",
+            "degreeArray": [
+                200,
+                331,
+                79
+            ]
+        },
+        {
+            "normalizedID": "ca5b8ffe85f7ff11",
+            "device": "ACCELEROMETER",
+            "id": "d4dcd1ed9a4054",
+            "origin": "Zorpantheon 9",
+            "degreeArray": [
+                41,
+                108,
+                125
+            ]
+        },
+        {
+            "normalizedID": "1ce96a0e35bc70ae",
+            "device": "ACCELEROMETER",
+            "id": "7b235df9554107",
+            "origin": "Nuptia 4",
+            "degreeArray": [
+                326,
+                258,
+                52
+            ]
+        },
+        {
+            "normalizedID": "53a0581621f2cf01",
+            "device": "ACCELEROMETER",
+            "id": "fa1db9ea9c8e0a",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                72,
+                198,
+                330
+            ]
+        },
+        {
+            "normalizedID": "24ae4a10997afd56",
+            "device": "ACCELEROMETER",
+            "id": "3022e03f9fb173",
+            "origin": "Midland Quasar",
+            "degreeArray": [
+                243,
+                2,
+                101
+            ]
+        },
+        {
+            "normalizedID": "c29f380e69e01dab",
+            "device": "ACCELEROMETER",
+            "id": "0534bc3adc0580",
+            "origin": "Pluto",
+            "degreeArray": [
+                343,
+                265,
+                80
+            ]
+        },
+        {
+            "normalizedID": "63fe314661f27037",
+            "device": "ACCELEROMETER",
+            "id": "fecec91a54399b",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                126,
+                39,
+                80
+            ]
+        },
+        {
+            "normalizedID": "f8d9fb4e9a794cb0",
+            "device": "ACCELEROMETER",
+            "id": "12e6ba9a56dc22",
+            "origin": "Lil' Bits",
+            "degreeArray": [
+                160,
+                320,
+                125
+            ]
+        },
+        {
+            "normalizedID": "c2986fca6b1c2086",
+            "device": "ACCELEROMETER",
+            "id": "8f04eafd889832",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                5,
+                138,
+                34
+            ]
+        },
+        {
+            "normalizedID": "67ce9fcf812d58a2",
+            "device": "ACCELEROMETER",
+            "id": "357cde023f9d09",
+            "origin": "Pluto",
+            "degreeArray": [
+                99,
+                216,
+                269
+            ]
+        },
+        {
+            "normalizedID": "64afc09b81f74aad",
+            "device": "ACCELEROMETER",
+            "id": "7a1bd9d5d87c28",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                311,
+                279,
+                314
+            ]
+        },
+        {
+            "normalizedID": "a6d7477fa5c1c1c5",
+            "device": "ACCELEROMETER",
+            "id": "3e8f464a6101b0",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                81,
+                43,
+                59
+            ]
+        },
+        {
+            "normalizedID": "23468a4c55f39514",
+            "device": "ACCELEROMETER",
+            "id": "cccd2baaa1bef3",
+            "origin": "Flump",
+            "degreeArray": [
+                38,
+                157,
+                354
+            ]
+        },
+        {
+            "normalizedID": "1130a4a70389708b",
+            "device": "ACCELEROMETER",
+            "id": "a2ddbc2d712fc9",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                356,
+                250,
+                283
+            ]
+        },
+        {
+            "normalizedID": "ecf93771ab42cc8b",
+            "device": "ACCELEROMETER",
+            "id": "e7726bc7f4c16a",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                46,
+                233,
+                311
+            ]
+        },
+        {
+            "normalizedID": "5bf15e15463f892c",
+            "device": "ACCELEROMETER",
+            "id": "bae3a125c64de2",
+            "origin": "Lil' Bits",
+            "degreeArray": [
+                40,
+                179,
+                260
+            ]
+        },
+        {
+            "normalizedID": "fda99c4ac1d01fcd",
+            "device": "ACCELEROMETER",
+            "id": "ba8ffed6268c86",
+            "origin": "Teenyverse",
+            "degreeArray": [
+                70,
+                118,
+                314
+            ]
+        },
+        {
+            "normalizedID": "fc00e47bcd1d6be6",
+            "device": "ACCELEROMETER",
+            "id": "bc2f28bbb707a5",
+            "origin": "Flump",
+            "degreeArray": [
+                91,
+                201,
+                9
+            ]
+        },
+        {
+            "normalizedID": "b2931d218ce5dd8c",
+            "device": "ACCELEROMETER",
+            "id": "8b5d9483665138",
+            "origin": "Lil' Bits",
+            "degreeArray": [
+                119,
+                332,
+                80
+            ]
+        },
+        {
+            "normalizedID": "93c846b06c748ec8",
+            "device": "ACCELEROMETER",
+            "id": "7793329e7dbfa7",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                160,
+                5,
+                264
+            ]
+        },
+        {
+            "normalizedID": "162f1fd9744943fe",
+            "device": "ACCELEROMETER",
+            "id": "87d6b568115651",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                226,
+                80,
+                151
+            ]
+        },
+        {
+            "normalizedID": "f9e1663abf53013f",
+            "device": "ACCELEROMETER",
+            "id": "3e20ba1d6a9e85",
+            "origin": "Blumbus Dimension",
+            "degreeArray": [
+                56,
+                139,
+                29
+            ]
+        },
+        {
+            "normalizedID": "6522489efde0f487",
+            "device": "ACCELEROMETER",
+            "id": "f1f1586502f36d",
+            "origin": "Krumpf",
+            "degreeArray": [
+                10,
+                247,
+                166
+            ]
+        },
+        {
+            "normalizedID": "a3a44fdb432c0e8d",
+            "device": "ACCELEROMETER",
+            "id": "32d2184806ed80",
+            "origin": "Midland Quasar",
+            "degreeArray": [
+                157,
+                285,
+                61
+            ]
+        },
+        {
+            "normalizedID": "f3be2d047239a641",
+            "device": "ACCELEROMETER",
+            "id": "82c81a4a8c3162",
+            "origin": "Zorpantheon 9",
+            "degreeArray": [
+                22,
+                10,
+                198
+            ]
+        },
+        {
+            "normalizedID": "c1c9657b10922bb2",
+            "device": "ACCELEROMETER",
+            "id": "e04f59c232a939",
+            "origin": "Big Pluto",
+            "degreeArray": [
+                240,
+                197,
+                70
+            ]
+        },
+        {
+            "normalizedID": "424f6a94e968d8eb",
+            "device": "ACCELEROMETER",
+            "id": "292e5096881b85",
+            "origin": "Blumbus Dimension",
+            "degreeArray": [
+                360,
+                145,
+                25
+            ]
+        },
+        {
+            "normalizedID": "c999e6e55bd6a120",
+            "device": "ACCELEROMETER",
+            "id": "d13139736e7384",
+            "origin": "Cogspot",
+            "degreeArray": [
+                87,
+                338,
+                125
+            ]
+        },
+        {
+            "normalizedID": "9c6794430a883b06",
+            "device": "ACCELEROMETER",
+            "id": "a0116395bbedc8",
+            "origin": "Flump",
+            "degreeArray": [
+                297,
+                307,
+                11
+            ]
+        },
+        {
+            "normalizedID": "e7ed2c28e91ca6c6",
+            "device": "ACCELEROMETER",
+            "id": "1a3ef0691468d3",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                292,
+                198,
+                305
+            ]
+        },
+        {
+            "normalizedID": "9bbdb7c40deb8eab",
+            "device": "ACCELEROMETER",
+            "id": "7cabe9b5785e15",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                88,
+                183,
+                348
+            ]
+        },
+        {
+            "normalizedID": "8b05c2b9fa6dcad8",
+            "device": "ACCELEROMETER",
+            "id": "cfb9156140508b",
+            "origin": "Miniverse",
+            "degreeArray": [
+                105,
+                315,
+                330
+            ]
+        },
+        {
+            "normalizedID": "8da956e9f28646cd",
+            "device": "ACCELEROMETER",
+            "id": "a474e532883eee",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                134,
+                72,
+                277
+            ]
+        },
+        {
+            "normalizedID": "e1b07d18f0f83150",
+            "device": "ACCELEROMETER",
+            "id": "dbbb2473cb875f",
+            "origin": "Merged Universe",
+            "degreeArray": [
+                200,
+                311,
+                113
+            ]
+        },
+        {
+            "normalizedID": "60abca34036c7ca7",
+            "device": "ACCELEROMETER",
+            "id": "66d5b46941435e",
+            "origin": "Mortytown",
+            "degreeArray": [
+                57,
+                83,
+                314
+            ]
+        },
+        {
+            "normalizedID": "519873ba6e75344e",
+            "device": "ACCELEROMETER",
+            "id": "55834e1dd220bb",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                103,
+                306,
+                321
+            ]
+        },
+        {
+            "normalizedID": "82e1cc12eea0f2a4",
+            "device": "ACCELEROMETER",
+            "id": "cb76396aa9b9c8",
+            "origin": "Lil' Bits",
+            "degreeArray": [
+                242,
+                225,
+                90
+            ]
+        },
+        {
+            "normalizedID": "687c4a3b906808bf",
+            "device": "ACCELEROMETER",
+            "id": "f2a3240bf9fa18",
+            "origin": "Parblesnops",
+            "degreeArray": [
+                167,
+                324,
+                197
+            ]
+        },
+        {
+            "normalizedID": "3729e3d8c29b0232",
+            "device": "ACCELEROMETER",
+            "id": "b43c333b820d81",
+            "origin": "Nuptia 4",
+            "degreeArray": [
+                247,
+                39,
+                222
+            ]
+        },
+        {
+            "normalizedID": "ea9370df9a110e3c",
+            "device": "ACCELEROMETER",
+            "id": "55381dc85ab253",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                234,
+                141,
+                223
+            ]
+        },
+        {
+            "normalizedID": "4a609cc6b2395ba5",
+            "device": "ACCELEROMETER",
+            "id": "4d1eb7bbe8b8ff",
+            "origin": "Miniverse",
+            "degreeArray": [
+                353,
+                11,
+                29
+            ]
+        },
+        {
+            "normalizedID": "dda46d2eb9d2e9fc",
+            "device": "ACCELEROMETER",
+            "id": "60cab4ff5f4d72",
+            "origin": "Midland Quasar",
+            "degreeArray": [
+                237,
+                135,
+                337
+            ]
+        },
+        {
+            "normalizedID": "19384dbc17d287e2",
+            "device": "ACCELEROMETER",
+            "id": "05600bc2b66d37",
+            "origin": "Pluto",
+            "degreeArray": [
+                25,
+                265,
+                101
+            ]
+        },
+        {
+            "normalizedID": "e8dd7f13a0410a47",
+            "device": "ACCELEROMETER",
+            "id": "cdf240909203ef",
+            "origin": "Mortytown",
+            "degreeArray": [
+                37,
+                294,
+                127
+            ]
+        },
+        {
+            "normalizedID": "60f5163176b7cb19",
+            "device": "ACCELEROMETER",
+            "id": "b0328beeeb3ee7",
+            "origin": "Flump",
+            "degreeArray": [
+                29,
+                341,
+                260
+            ]
+        },
+        {
+            "normalizedID": "f3b411887f630330",
+            "device": "ACCELEROMETER",
+            "id": "a6776a64606bbd",
+            "origin": "Pawn Shop Planet",
+            "degreeArray": [
+                73,
+                0,
+                250
+            ]
+        },
+        {
+            "normalizedID": "27e1b3b7d83ce293",
+            "device": "ACCELEROMETER",
+            "id": "7f489d9f60df8d",
+            "origin": "Plim Plom Tavern",
+            "degreeArray": [
+                180,
+                27,
+                297
+            ]
+        },
+        {
+            "normalizedID": "8b61c83e4a15c051",
+            "device": "ACCELEROMETER",
+            "id": "b1271df51a5a35",
+            "origin": "Big Pluto",
+            "degreeArray": [
+                209,
+                349,
+                100
+            ]
+        },
+        {
+            "normalizedID": "2a832c709b8caf35",
+            "device": "ACCELEROMETER",
+            "id": "a3462528ca9beb",
+            "origin": "Merged Universe",
+            "degreeArray": [
+                308,
+                244,
+                11
+            ]
+        },
+        {
+            "normalizedID": "540ace05570871c2",
+            "device": "ACCELEROMETER",
+            "id": "704a4ba8bba69c",
+            "origin": "Froopyland",
+            "degreeArray": [
+                303,
+                217,
+                65
+            ]
+        },
+        {
+            "normalizedID": "055fc2172b8a8079",
+            "device": "ACCELEROMETER",
+            "id": "2657da57689d5a",
+            "origin": "Flump",
+            "degreeArray": [
+                132,
+                21,
+                255
+            ]
+        },
+        {
+            "normalizedID": "eac2660ae98f4545",
+            "device": "ACCELEROMETER",
+            "id": "11ca297ef1ce71",
+            "origin": "Mortytown",
+            "degreeArray": [
+                215,
+                356,
+                331
+            ]
+        },
+        {
+            "normalizedID": "bcd0e9766da037d5",
+            "device": "ACCELEROMETER",
+            "id": "cdb855b793aedd",
+            "origin": "Flump",
+            "degreeArray": [
+                173,
+                67,
+                134
+            ]
+        },
+        {
+            "normalizedID": "077dee4133589866",
+            "device": "ACCELEROMETER",
+            "id": "d0c76ff8b8d542",
+            "origin": "Merged Universe",
+            "degreeArray": [
+                233,
+                222,
+                151
+            ]
+        },
+        {
+            "normalizedID": "76660776fd0651a0",
+            "device": "ACCELEROMETER",
+            "id": "c34288474f3713",
+            "origin": "Big Pluto",
+            "degreeArray": [
+                48,
+                170,
+                122
+            ]
+        },
+        {
+            "normalizedID": "1c14e00eb4b6592d",
+            "device": "ACCELEROMETER",
+            "id": "0ed9dfcbb9b520",
+            "origin": "Nuptia 4",
+            "degreeArray": [
+                132,
+                137,
+                303
+            ]
+        },
+        {
+            "normalizedID": "daf3e56a43175d91",
+            "device": "ACCELEROMETER",
+            "id": "48fc7d34fc00a6",
+            "origin": "Pluto",
+            "degreeArray": [
+                302,
+                266,
+                227
+            ]
+        },
+        {
+            "normalizedID": "459a5023b24c0d5c",
+            "device": "ACCELEROMETER",
+            "id": "8bb5f28b72ce30",
+            "origin": "Flump",
+            "degreeArray": [
+                333,
+                195,
+                230
+            ]
+        },
+        {
+            "normalizedID": "9bd38e2c3375afc7",
+            "device": "ACCELEROMETER",
+            "id": "9682e77b5fbbd5",
+            "origin": "Zorpantheon 9",
+            "degreeArray": [
+                134,
+                340,
+                50
+            ]
+        },
+        {
+            "normalizedID": "574e8bc2857dfa83",
+            "device": "ACCELEROMETER",
+            "id": "bb0d7a4b0b8bcd",
+            "origin": "Krumpf",
+            "degreeArray": [
+                21,
+                7,
+                294
+            ]
+        },
+        {
+            "normalizedID": "50f3c98793d16e04",
+            "device": "ACCELEROMETER",
+            "id": "9a76c85ad9358b",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                89,
+                218,
+                174
+            ]
+        },
+        {
+            "normalizedID": "0226fd7c35642b0d",
+            "device": "ACCELEROMETER",
+            "id": "04b9d4725b1792",
+            "origin": "Zorpantheon 9",
+            "degreeArray": [
+                168,
+                96,
+                296
+            ]
+        },
+        {
+            "normalizedID": "c01212e7c6a1429f",
+            "device": "ACCELEROMETER",
+            "id": "f907ed0661d186",
+            "origin": "Comulon Dimension",
+            "degreeArray": [
+                6,
+                182,
+                316
+            ]
+        },
+        {
+            "normalizedID": "65db62783b4e27ce",
+            "device": "ACCELEROMETER",
+            "id": "566b78dd24344c",
+            "origin": "Doopidoo Dimension",
+            "degreeArray": [
+                352,
+                124,
+                216
             ]
         }
     ]

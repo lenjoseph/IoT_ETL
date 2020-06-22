@@ -1,6 +1,7 @@
 import { randomBytes } from 'crypto';
 import { origins } from './constants';
-import { dataPoint } from '../types';
+import { round } from './helpers';
+import { dataPoint } from '../data/types';
 
 // creates random alphanumeric string of length from 1 to 10
 const generateDataPoint = () => {
@@ -23,10 +24,9 @@ const generateDataPoint = () => {
 				device: 'Accelerometer',
 				id: randomBytes(7).toString('hex'),
 				company: origins[Math.floor(Math.random() * origins.length)],
-				// range is 0 to 360
-				xDegree: Math.floor(Math.random() * 361),
-				yDegree: Math.floor(Math.random() * 361),
-				zDegree: Math.floor(Math.random() * 361),
+				runTimeHours: round(Math.random() * 2, 2),
+				walkTimeHours: round(Math.random() * 4, 2),
+				idleTimeHours: round(Math.random() * 8, 2),
 			};
 			break;
 		case 3:
@@ -34,7 +34,8 @@ const generateDataPoint = () => {
 				device: 'Photosensor',
 				id: randomBytes(9).toString('hex'),
 				source: origins[Math.floor(Math.random() * origins.length)],
-				lux: Math.floor(Math.random() * 801),
+				// range is 50 to 1000
+				lux: Math.floor(Math.random() * 950) + 50,
 			};
 	}
 	return dataPoint;

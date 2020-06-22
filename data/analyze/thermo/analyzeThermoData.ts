@@ -1,6 +1,6 @@
 import * as fs from 'fs';
 import { getAverageTemp, getTempRange } from './helpers';
-import { transformedThermoDataPoint } from '../types';
+import { transformedThermoDataPoint } from '../../types';
 
 export const analyzeThermoData = (thermoPath: string) => {
 	// load in data from json file
@@ -21,10 +21,7 @@ export const analyzeThermoData = (thermoPath: string) => {
 			);
 			let averageTemp: number = getAverageTemp(thermoData.chunks);
 			let tempRange: number[] = getTempRange(thermoData.chunks);
-			console.log(`
-				Average Temperature: ${averageTemp}
-				Minumum Temperature: ${tempRange[0]}
-				Maximum Temperatue: ${tempRange[1]}
+			console.log(`\n --- Thermometer Data Summary --- \n\nAverage Temperature: ${averageTemp} \nMinumum Temperature: ${tempRange[0]} \nMaximum Temperatue: ${tempRange[1]}
 			`);
 		} catch (err) {
 			console.log(err);
@@ -34,7 +31,7 @@ export const analyzeThermoData = (thermoPath: string) => {
 	runAnalysis().then(() => {
 		// clean up temp file holding thermometer data
 		fs.writeFile(thermoPath, '', () => {
-			console.log('Thermo temp file cleared...');
+			console.log(`\nThermo temp file cleared...`);
 		});
 	});
 };

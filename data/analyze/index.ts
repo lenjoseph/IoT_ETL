@@ -1,5 +1,5 @@
-import { analyzeThermoData } from './analyzeThermoData';
-import { analyzePhotoData } from './analyzePhotoData';
+import { analyzeThermoData } from './thermo/analyzeThermoData';
+import { analyzePhotoData } from './photo/analyzePhotoData';
 
 export const analyzeDeviceData = ({ thermoPath, accelPath, photoPath }) => {
 	analyzeThermoData(thermoPath);

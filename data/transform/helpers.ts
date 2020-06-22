@@ -15,7 +15,6 @@ export const fahrenheightToCelcius = (fahrenheit: number) => {
 export const hoursToMinutes = (hours: number) => {
 	const decimal = hours % 1;
 	const decMinutes = decimal * 60;
-
 	const wholeHours = Math.floor(hours);
 	const wholeMinutes = wholeHours * 60;
 
