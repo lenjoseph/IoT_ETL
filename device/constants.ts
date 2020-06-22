@@ -15,7 +15,7 @@ export const origins = [
 	'Miniverse',
 	'Nuptia 4',
 	'Cogspot',
-	'Comulon Dimension',
+	'Cromulon Dimension',
 	'Parblesnops',
 	'Pawn Shop Planet',
 	'Plim Plom Tavern',

@@ -1,7 +1,7 @@
 import { randomBytes } from 'crypto';
 import { origins } from './constants';
 import { round } from './helpers';
-import { dataPoint } from '../data/types';
+import { dataPoint } from '../types';
 
 // creates random alphanumeric string of length from 1 to 10
 const generateDataPoint = () => {

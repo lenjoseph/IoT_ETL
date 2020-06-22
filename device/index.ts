@@ -1,3 +1,3 @@
 import { generateData } from './generateDeviceData';
 
-export const readDeviceData = generateData;
+export default generateData;

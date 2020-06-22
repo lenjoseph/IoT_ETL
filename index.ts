@@ -1,16 +1,16 @@
-import { readDeviceData } from './device/index';
-import writeDeviceData from './data/load/index';
-import { analyzeDeviceData } from './data/analyze/index';
+import readDeviceData from './device/index';
+import writeDeviceData from './load/index';
+import analyzeDeviceData from './analyze/index';
 
 // generate data, perform write to disc with data separated by device source
-writeDeviceData(readDeviceData(100, 5), {
-	thermoPath: './data/temp/thermoData.json',
-	accelPath: './data/temp/accelData.json',
-	photoPath: './data/temp/photoData.json',
+writeDeviceData(readDeviceData(1000, 5), {
+	thermoPath: './temp/thermoData.json',
+	accelPath: './temp/accelData.json',
+	photoPath: './temp/photoData.json',
 }).then(() => {
 	analyzeDeviceData({
-		thermoPath: './data/temp/thermoData.json',
-		accelPath: './data/temp/accelData.json',
-		photoPath: './data/temp/photoData.json',
+		thermoPath: './temp/thermoData.json',
+		accelPath: './temp/accelData.json',
+		photoPath: './temp/photoData.json',
 	});
 });

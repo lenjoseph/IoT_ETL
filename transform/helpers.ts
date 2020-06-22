@@ -1,5 +1,3 @@
-import { writeFile } from 'fs';
-
 export const round = (num: number, decimals: number) => {
 	num = num * Math.pow(10, decimals);
 	num = Math.round(num);

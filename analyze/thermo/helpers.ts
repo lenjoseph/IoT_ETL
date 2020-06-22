@@ -1,4 +1,5 @@
 import { transformedThermoDataPoint } from '../../types';
+import { round } from '../../transform/helpers';
 
 export const getAverageTemp = (arr: transformedThermoDataPoint[]) => {
 	const tempsArray: number[] = arr.map((obj) => {
@@ -7,7 +8,7 @@ export const getAverageTemp = (arr: transformedThermoDataPoint[]) => {
 
 	const average: number =
 		tempsArray.reduce((acc, c) => acc + c, 0) / arr.length;
-	return average;
+	return round(average, 2);
 };
 
 export const getTempRange = (arr: transformedThermoDataPoint[]) => {
