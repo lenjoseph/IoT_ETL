@@ -21,8 +21,14 @@ export const analyzeThermoData = (thermoPath: string) => {
 			);
 			let averageTemp: number = getAverageTemp(thermoData.chunks);
 			let tempRange: number[] = getTempRange(thermoData.chunks);
-			console.log(`\n --- Thermometer Data Summary --- \n\nAverage Temperature: ${averageTemp} \nMinumum Temperature: ${tempRange[0]} \nMaximum Temperatue: ${tempRange[1]}
-			`);
+			console.log(
+				`\n --- Thermometer Data Summary --- \n\nAverage Temperature:`,
+				averageTemp,
+				`\nMinumum Temperature:`,
+				tempRange[0],
+				`\nMaximum Temperatue:`,
+				tempRange[1]
+			);
 		} catch (err) {
 			console.log(err);
 		}

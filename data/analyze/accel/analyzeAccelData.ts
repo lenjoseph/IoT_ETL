@@ -1,5 +1,5 @@
 import * as fs from 'fs';
-import {} from './helpers';
+import { getMedianIdleTime, getHighestExerciseTime } from './helpers';
 import { transformedAccelDataPoint } from '../../types';
 
 export const analyzeAccelData = (accelPath: string) => {
@@ -19,7 +19,21 @@ export const analyzeAccelData = (accelPath: string) => {
 			let accelData: { chunks: transformedAccelDataPoint[] } = JSON.parse(
 				accelJSON
 			);
-
+			const medianIdleTime: number | undefined = getMedianIdleTime(
+				accelData.chunks
+			);
+			const highestExerciseTime = getHighestExerciseTime(accelData.chunks);
+			console.log(`\n --- Accelerometer Data Summary --- \n\n`);
+			if (medianIdleTime !== undefined) {
+				console.log(`Median idle time:`, medianIdleTime, `minutes`);
+			} else {
+				console.log(`Median idle time is unavailable.`);
+			}
+			console.log(
+				`Most minutes spent exercising (walking and running):`,
+				highestExerciseTime,
+				`minutes`
+			);
 			// insert analysis here
 		} catch (err) {
 			console.log(err);
