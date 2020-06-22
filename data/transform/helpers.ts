@@ -8,15 +8,15 @@ export const round = (num: number, decimals: number) => {
 };
 
 export const fahrenheightToCelcius = (fahrenheit: number) => {
-	const conversion = ((fahrenheit - 32) * 5) / 9;
+	const conversion: number = ((fahrenheit - 32) * 5) / 9;
 	return round(conversion, 2);
 };
 
 export const hoursToMinutes = (hours: number) => {
-	const decimal = hours % 1;
-	const decMinutes = decimal * 60;
-	const wholeHours = Math.floor(hours);
-	const wholeMinutes = wholeHours * 60;
+	const decimal: number = hours % 1;
+	const decMinutes: number = decimal * 60;
+	const wholeHours: number = Math.floor(hours);
+	const wholeMinutes: number = wholeHours * 60;
 
 	return round(decMinutes + wholeMinutes, 2);
 };

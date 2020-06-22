@@ -1,3 +1,4 @@
+// Rick and Morty's finest
 export const origins = [
 	'Mortytown',
 	'Pluto',

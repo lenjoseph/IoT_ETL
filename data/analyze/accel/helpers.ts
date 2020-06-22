@@ -10,11 +10,11 @@ export const getMedianIdleTime = (arr: transformedAccelDataPoint[]) => {
 			return undefined;
 		}
 
-		const sortedArr = minuteArr.sort((a, b) => {
+		const sortedArr: number[] = minuteArr.sort((a, b) => {
 			return a - b;
 		});
 
-		const half = Math.floor(sortedArr.length / 2);
+		const half: number = Math.floor(sortedArr.length / 2);
 
 		if (sortedArr.length % 2) {
 			return sortedArr[half];
@@ -31,7 +31,7 @@ export const getHighestExerciseTime = (arr: transformedAccelDataPoint[]) => {
 		return obj.walkTimeMinutes + obj.runTimeMinutes;
 	});
 
-	const sortedArr = exerciseArray.sort((a, b) => {
+	const sortedArr: number[] = exerciseArray.sort((a, b) => {
 		return a - b;
 	});
 

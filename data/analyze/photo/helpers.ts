@@ -12,7 +12,7 @@ export const getPhotoOriginMode = (arr: transformedPhotoDataPoint[]) => {
 			if (!mapping[arr[i]]) mapping[arr[i]] = 0;
 			mapping[arr[i]] += 1;
 		}
-		const max = Object.keys(mapping).reduce((a, b) =>
+		const max: string = Object.keys(mapping).reduce((a, b) =>
 			mapping[a] > mapping[b] ? a : b
 		);
 		return max;

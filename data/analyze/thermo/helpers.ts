@@ -5,7 +5,8 @@ export const getAverageTemp = (arr: transformedThermoDataPoint[]) => {
 		return obj.celcius;
 	});
 
-	const average = tempsArray.reduce((acc, c) => acc + c, 0) / arr.length;
+	const average: number =
+		tempsArray.reduce((acc, c) => acc + c, 0) / arr.length;
 	return average;
 };
 
@@ -14,11 +15,11 @@ export const getTempRange = (arr: transformedThermoDataPoint[]) => {
 		return obj.celcius;
 	});
 
-	const minTemp = tempsArray.reduce((a, b) => {
+	const minTemp: number = tempsArray.reduce((a, b) => {
 		return Math.min(a, b);
 	});
 
-	const maxTemp = tempsArray.reduce((a, b) => {
+	const maxTemp: number = tempsArray.reduce((a, b) => {
 		return Math.max(a, b);
 	});
 
