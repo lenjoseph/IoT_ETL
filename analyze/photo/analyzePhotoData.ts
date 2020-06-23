@@ -35,7 +35,7 @@ export const analyzePhotoData = (photoPath: string) => {
 	};
 
 	runAnalysis().then(() => {
-		// clean up temp file holding thermometer data
+		// clean up temp file holding photosensor data
 		fs.writeFile(photoPath, '', () => {
 			console.log(`\nPhoto temp file cleared...`);
 		});

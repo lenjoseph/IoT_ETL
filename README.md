@@ -1,12 +1,15 @@
 # IoT_ETL
+
 Extract, Transform, Load, Analyze simulation for IoT data
 
 # Running the Project
+
 1. Clone repo to local directory (make sure Node.js v. 8 or later is installed)
 2. Run `npm install` to install node dependencies
 3. Run `npm start` to simulate the data flow
 
-# Program Behavior
+# Program Functionality
+
 This simulator uses an asynchronous generator to act as an emitter of data for various IoT devices.
 
 The program asynchronously iterates through this generator until it reaches the specified iteration count. As it iterates, the data is held in an array until iteration is finished. This array data is then stringified and sent to a temp JSON file.

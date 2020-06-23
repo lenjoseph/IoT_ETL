@@ -41,7 +41,7 @@ export const analyzeAccelData = (accelPath: string) => {
 	};
 
 	runAnalysis().then(() => {
-		// clean up temp file holding thermometer data
+		// clean up temp file holding accelerometer data
 		fs.writeFile(accelPath, '', () => {
 			console.log(`\nAccel temp file cleared...`);
 		});
