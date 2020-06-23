@@ -2,6 +2,8 @@
 
 Extract, Transform, Load, Analyze simulation for IoT data
 
+Accompanying article on The Startup: https://medium.com/swlh/processing-iot-data-with-node-js-typescript-a392be124084
+
 # Running the Project
 
 1. Clone repo to local directory (make sure Node.js v. 8 or later is installed)
