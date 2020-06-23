@@ -19,6 +19,10 @@ export const analyzeThermoData = (thermoPath: string) => {
 			let thermoData: { chunks: transformedThermoDataPoint[] } = JSON.parse(
 				thermoJSON
 			);
+			if (thermoData.chunks.length === 0) {
+				console.log(`There is no thermometer data to analyze.`);
+				return;
+			}
 			let averageTemp: number = getAverageTemp(thermoData.chunks);
 			let tempRange: number[] = getTempRange(thermoData.chunks);
 			console.log(

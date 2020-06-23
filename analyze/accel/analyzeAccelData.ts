@@ -19,6 +19,10 @@ export const analyzeAccelData = (accelPath: string) => {
 			let accelData: { chunks: transformedAccelDataPoint[] } = JSON.parse(
 				accelJSON
 			);
+			if (accelData.chunks.length === 0) {
+				console.log(`There is no accelerometer data to analyze.`);
+				return;
+			}
 			const medianIdleTime: number | undefined = getMedianIdleTime(
 				accelData.chunks
 			);

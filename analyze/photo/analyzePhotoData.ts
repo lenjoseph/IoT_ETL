@@ -19,6 +19,10 @@ export const analyzePhotoData = (photoPath: string) => {
 			let photoData: { chunks: transformedPhotoDataPoint[] } = JSON.parse(
 				photoJSON
 			);
+			if (photoData.chunks.length === 0) {
+				console.log(`There is no photosensor data to analyze.`);
+				return;
+			}
 			const originMode: string = getPhotoOriginMode(photoData.chunks);
 			const environmentMapping = getSensorEnvironmentMapping(photoData.chunks);
 
